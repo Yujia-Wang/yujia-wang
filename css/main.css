@@ -1,0 +1,64 @@
+body {
+	font-family: "Montserrat", sans-serif;
+	color: #fff;
+	background: url('../image/background.png') fixed center;
+}
+
+a {
+	letter-spacing: .2em;
+	color: #fff;
+}
+
+a:hover {
+	color: #f9eb9e; 
+	text-decoration: none;
+}
+
+h1, h4, h5, ul {
+	letter-spacing: .05em;
+	word-spacing: .2em;
+}
+
+p {
+	letter-spacing: .1em;
+	word-spacing: .2em;
+}
+
+hr {
+	margin-top: 3em;
+	margin-bottom: 3em;
+	background-color: #fff;
+}
+
+footer {
+	position: relative;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+/* navigation */
+
+.nav-up {
+	background-color: #000;
+}
+
+.logo-yujia {
+	font-family: "Lobster", sans-serif;
+	font-size: 1em;
+	letter-spacing: .2em;
+	word-spacing: .4em;
+	color: #fff;
+}
+
+/* footer */
+
+.footer-icons {font-size: 2em;}
+
+/* project */
+
+.project-section {
+	position: relative;
+	padding-top: 10em;
+	padding-bottom: 10em;
+}
+
