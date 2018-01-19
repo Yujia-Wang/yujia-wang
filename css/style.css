@@ -96,6 +96,8 @@
 
 /* section */
 
+.title-pic {padding-bottom: 5em;}
+
 .title-space {
 	padding-top: 3em;
 	padding-bottom: 1em;
@@ -126,15 +128,15 @@
 
 .fittingeasy-process {
 	border-radius: 25px;
-	border-color: #f9eb9e;
-	color: #f9eb9e;
+	border-color: #3ac3ea;
+	color: #3ac3ea;
 	background-color: transparent;
 }
 
 .fittingeasy-process:hover {
-	border-color: #f9eb9e;
+	border-color: #3ac3ea;
 	color: #000;
-	background-color: #f9eb9e;	
+	background-color: #3ac3ea;	
 }
 
 .wehome-process {
@@ -152,9 +154,9 @@
 
 /* quote */
 
-.quote {
+.fittingeasy-quote {
 	font-style: italic;
-	color: #f9eb9e;
+	color: #3ac3ea;
 }
 
 /* icon */
