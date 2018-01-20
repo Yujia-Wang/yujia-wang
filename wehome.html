@@ -10,7 +10,8 @@
         <link href="https://use.fontawesome.com/releases/v5.0.2/css/all.css" rel="stylesheet">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster|Montserrat">
         <link rel="stylesheet" type="text/css" href="css/main.css">
-        <link rel="stylesheet" type="text/css" href="css/style.css">     
+        <link rel="stylesheet" type="text/css" href="css/style.css">   
+        <link rel="shortcut icon" type="text/css" href="image/logo-icon.png">
     </head>
     <body>
         <!-- navgation -->
@@ -51,12 +52,12 @@
                         <h1>Problem</h1>
                     </div>
                     <div class="col-md-12">
-                        <p>Intelligent control technology has developed increasingly these years. And people love to try new technology that can make life easier. However, there are still some problems when considering smart home control system, which make them not pervasive to everyone.</p>
+                        <p>Despite the rapid development of smart home system, it is still not very pervasive to most people. The main reasons are:</p>
                     </div>
                     <div class="col-md-12">
                         <ul>
-                            <li style="color:#45c4fe;">People hate to download too many apps on their phones.</li>
-                            <li style="color:#45c4fe;">Intelligent appliances can be very expensive.</li>
+                            <li style="color:#00D100;">People are unwilling to download too many apps on their phones.</li>
+                            <li style="color:#00D100;">Smart appliances can be very expensive.</li>
                         </ul>
                     </div>
                 </div>
@@ -65,14 +66,14 @@
                         <h1>Solution</h1>
                     </div>
                     <div class="col-md-12">
-                        <p>Here we present <span style="color:#45c4fe;font-size:1.5em;">WeHome</span>, an interactive home control system in WeChat that helps user easily control their electronic appliances. This system is based on WeChat, the most popular social media in China, and it's suitable to most appliances. It mainly has the following functions:</p>
+                        <p>Here we present <span style="color:#00D100;font-size:1.5em;">WeHome</span>, a smart home system based on WeChat, the most popular social media in China. WeHome dedicates to helping users conveniently control normal appliances. The main functions are:</p>
                     </div>
                     <div class="col-md-12">
                         <ul>
-                            <li>Gather environment information, such as temperature.</li>
-                            <li>Turn on/off appliances.</li>
-                            <li>Adjust the brightness of light.</li>
-                            <li>set up timer for appliances.</li>
+                            <li>Gathering environment information, such as temperature.</li>
+                            <li>Turning on / off appliances.</li>
+                            <li>Adjusting light brightness.</li>
+                            <li>Setting timers for appliances.</li>
                         </ul>
                     </div>
                     <div class="col-md-12 text-center">
@@ -84,7 +85,7 @@
                         <h1>Process</h1>
                     </div>
                     <div class="col-md-12">
-                        <p>This project mainly focused on the development of interactive technology. Based on the existing technology, we expanded its functions and made a future plan for it.</p>
+                        <p>This project mainly focused on technology development.</p>
                     </div>
                     <div class="col-md-12">
                         <img src="image/wehome-process.png" width="100%" atl="design process">
@@ -123,19 +124,42 @@
                     <div class="col-md-12 title-space">
                         <h1>Research</h1>
                     </div>
+<!--
                     <div class="col-md-12">
                         <p>To fully understand our problem space and our users, we launched a survey to gather information about how people feel about this situation and what the most important functions are to them in terms of appliances. We also conducted literature review to learn about existing products, discussing the feasibility of our project.</p>
                     </div>
+-->
                     <div class="col-md-4 offset-md-1 text-center pic-space">
-                        <img class="icon-space" src="image/survey-icon.png" alt="survey icon">
+                        <img class="icon-space" src="image/wehome-survey-icon.svg" width="25%" alt="survey icon">
                         <p>Launched a survey to gather information about users</p>
                     </div>
                     <div class="col-md-4 offset-md-2 text-center pic-space">
-                        <img class="icon-space" src="image/literature-icon.png" alt="literature review icon">
-                        <p>Conducted literature review on existing products</p>
+                        <img class="icon-space" src="image/wehome-literature-icon.svg" width="25%" alt="literature review icon">
+                        <p>Conducted literature review on existing products and technologies</p>
                     </div>
                     <div class="col-md-12">
-                        <p>Through thorough research, we found most people hate to download apps when it comes to home security. We also determined the main functions of our system and what technology would be used.</p>
+                        <p>From survey results, we found most people are reluctant to download apps, especially when it comes to home security. And some people think it's not worthy to buy smart appliances if they cost too much.</p>
+                        <p>We also identified user needs of smart home system, including:</p>
+                    </div>
+                    <div class="col-md-12">
+                        <ul>
+                            <li style="color:#00d100;">Monitoring interior environment, such as temperature, humidity, and smoke alarm.</li>
+                            <li style="color:#00d100;">Controlling switches of appliances.</li>
+                            <li style="color:#00d100;">Setting timers for certain appliances, such as turning off light in 15 minutes after sleeping.</li>
+                            <li>Enabling appliances to automatically adjust themselves according to interior environment, such as turning on fan if temperature is too high.</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-12">
+                        <p>Due to time limits, we decided to focus on highlighted points.</p>
+                        <p>In addition, we conducted thorough research on existing products, and determined the technologies that we were going to use.</p>
+                    </div>
+                    <div class="col-md-4 offset-md-1 text-center pic-space">
+                        <img class="icon-space" src="image/wehome-wechat-icon.svg" width="25%" alt="wechat icon">
+                        <h5>WeChat</h5>
+                    </div>
+                    <div class="col-md-4 offset-md-2 text-center pic-space">
+                        <img class="icon-space" src="image/wehome-zigbee-icon.svg" width="25%" alt="zigbee icon">
+                        <h5>ZigBee </h5>
                     </div>
                     <div class="col-md-12 text-center button-section">
                         <button id="researchBtn" type="button" onclick="r_btnName()" class="wehome-process" data-toggle="collapse" data-target="#research-process">See Research Process</button>
@@ -143,23 +167,41 @@
                 </div>
                 <div id="research-process" class="collapse">
                     <div class="row">
-                        <div class="col-md-12 bottom-space">
+                        <div class="col-md-12">
                             <h4 class="subtitle-space">
                                 <span class="subtitle-underline">Survey</span>
                             </h4>
-                            <p>The survey was launched online. We had 102 participants who took the survey. Based on the results of survey, we were able to identify users' pain point that they think intelligent appliances in the market is too much expensive. Too many options of apps is also upsetting. We also identified several functions that we should include in our design according to their daily involvement with appliances. And WeChat is the most popular social media in China, while it also provides plenty of opportunities for designers and developers to create innoviate applications. The following image presents our main results.</p>
+                            <p>The survey was launched online. We had 102 participants who took the survey. Based on their feedback, we identified pain points below.</p>
+                        </div>
+                        <div class="col-md-12">
+                            <ul>
+                                <li>Some participants think smart appliances are expensive, and they can still live a good life with normal appliances.</li>
+                                <li>Some participants find it upsetting to choose apps without knowing which one actually works.</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-12">
+                            <p>We also identified several functions that people mostly demand. The following graph is presenting our main findings.</p>
                         </div>
                         <div class="col-md-12">
                             <img src="image/wehome-survey.png" width="100%" alt="survey pie chart">
                         </div>
-                        <div class="col-md-12">
+                        <div class="col-md-12 top-space">
                             <h4 class="subtitle-space">
                                 <span class="subtitle-underline">Literature Review</span>
                             </h4>
-                            <p>According to our research on existing results, most intelligent appliances are wireless, which is also what attracts people to use. Thus, we compared different wireless technologies and determined to develop our system by using ZigBee since it is safer and has excellent power dissipation. The following chart compares different aspects of the most popular wireless technologies. We also gave different weight to each aspect and calculated the final grade.</p>
+                            <p>Based on our research on existing products and technologies, we found out that wireless is a crucial requirement for smart appliances. We compared several wireless technologies and eventually decided to use ZigBee as our core technology, since it is safer and more power-saving. And these two advantages are very important to smart appliances. The following chart compares different wireless technologies in several weighted aspects.</p>
                         </div>
                         <div class="col-md-12">
                             <img src="image/wehome-compare.png" width="100%" alt="zigbee, wifi, bluetooth comparison">
+                        </div>
+                        <div class="col-md-12">
+                            <p>We also decided to use WeChat as our application platform due to the reasons below.</p>
+                        </div>
+                        <div class="col-md-12">
+                            <ul>
+                                <li>WeChat is the most popular social media in China.</li>
+                                <li>It provides developers and designers with big development space. They can create plenty of innovative applications on WeChat.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -167,16 +209,56 @@
                     <div class="col-md-12 title-space">
                         <h1>Design</h1>
                     </div>
+<!--
                     <div class="col-md-12">
                         <p>Based on the reaearch we conducted earlier, we were able to make informed decisions about the main functions of our system and what technology we should use to develop our system. We conducted a brainstorming session to talk about our function design and asked experts for feedback.</p>
                     </div>
+-->
+                    <div class="col-md-4 text-center pic-space">
+                        <img class="icon-space" src="image/wehome-structure-icon.svg" width="25%" alt="structure icon">
+                        <p>Structured our original system design</p>
+                    </div>
+                    <div class="col-md-4 text-center pic-space">
+                        <img class="icon-space" src="image/wehome-sketch-icon.svg" width="25%" alt="sketch icon">
+                        <p>Paper-sketched our physical prototype</p>
+                    </div>
+                    <div class="col-md-4 text-center pic-space">
+                        <img class="icon-space" src="image/wehome-feedback-icon.svg" width="25%" alt="feedback icon">
+                        <p>Asked feedback from experts</p>
+                    </div>
+                    <div class="col-md-12">
+                        <p>In the end, we preliminarily decided our system would contain the following core functions.</p>
+                    </div>
                     <div class="col-md-4 offset-md-1 text-center pic-space">
-                        <img class="icon-space" src="image/brainstorming-icon.png" alt="brainstorming icon">
-                        <p>Held brainstorming session to design system functions</p>
+                        <img class="icon-space" src="image/wehome-switch-icon.svg" width="25%" alt="switch icon">
+                        <p>Turn on / off appliances</p>
                     </div>
                     <div class="col-md-4 offset-md-2 text-center pic-space">
-                        <img class="icon-space" src="image/feedback-icon.png" alt="feedback icon">
-                        <p>Asked feedback about our system functions from experts</p>
+                        <img class="icon-space" src="image/wehome-light-icon.svg" width="25%" alt="light icon">
+                        <p>Adjust light brightness</p>
+                    </div>
+                    <div class="col-md-4 offset-md-1 text-center pic-space">
+                        <img class="icon-space" src="image/wehome-temperature-icon.svg" width="25%" alt="temperature icon">
+                        <p>Monitor temperature and humidity</p>
+                    </div>
+                    <div class="col-md-4 offset-md-2 text-center pic-space">
+                        <img class="icon-space" src="image/wehome-timer-icon.svg" width="25%" alt="timer icon">
+                        <p>Set up timers for appliances</p>
+                    </div>
+                    <div class="col-md-12">
+                        <p>To provide users more control freedom, we developed 3 control modes, including:</p>
+                    </div>
+                    <div class="col-md-4 text-center pic-space">
+                        <img class="icon-space" src="image/wehome-voice-icon.svg" width="25%" alt="voice control mode icon">
+                        <p>Voice Control</p>
+                    </div>
+                    <div class="col-md-4 text-center pic-space">
+                        <img class="icon-space" src="image/wehome-text-icon.svg" width="25%" alt="text-input control mode icon">
+                        <p>Text-input Control</p>
+                    </div>
+                    <div class="col-md-4 text-center pic-space">
+                        <img class="icon-space" src="image/wehome-interface-icon.svg" width="25%" alt="interface control mode icon">
+                        <p>Interface Control</p>
                     </div>
                     <div class="col-md-12 text-center button-section">
                         <button id="designBtn" type="button" onclick="d_btnName()" class="wehome-process" data-toggle="collapse" data-target="#design-process">See Design Process</button>
@@ -186,33 +268,35 @@
                     <div class="row">
                         <div class="col-md-12">
                             <h4 class="subtitle-space">
-                            <span class="subtitle-underline">Brainstorming</span>
+                            <span class="subtitle-underline">Structure Design</span>
                             </h4>
-                            <p>According to the survey results, we found that the most usual action peopel do on their appliances is turning on/off them. Thus, we came up with several appliances that we use very often at home, such as lamp, fan, water dispenser, etc. Speaking of lamp, controling the brightness of lamp can be really thoughtful when it comes to doing different daily activities, for example, sleeping and reading.</p>
-                            <p>They also care a lot about their home environment, for example, temperature and humidity. In this case, we thought fire alert can be really useful.</p>
-                            <p>In addition, we figured out that a timer to control these appliances can be also a good thing.</p>
+                            <p>This session was to specify our system functions, structuring system frame. With survey results, we made informed decisions about functions as follows:</p>
                         </div>
-                        <div class="col-md-6 text-center pic-space">
-                            <img class="icon-space" src="image/switch.png" alt="switch icon">
-                            <p>Turn on/off the appliances</p>
+                        <div class="col-md-12">
+                            <ul>
+                                <li>Turn on / off appliances including lamp, fan, and humidifier. These appliances are often used in people's daily life.</li>
+                                <li>Adjust light brightness in 5 levels. It will be thoughtful when doing different activities, for example, reading, and sleeping.</li>
+                                <li>Monitor interior environment temperature and humidity. Many people care about temperature and humidity, so they can make adjustments.</li>
+                                <li>Set timers for fan, lamp, and humidifier. Many people have this need, for example, it would be better if they can turn on the fan before they get home in a hot day or turn off lamp in several minutes after sleeping.</li>
+                            </ul>
                         </div>
-                        <div class="col-md-6 text-center pic-space">
-                            <img class="icon-space" src="image/brightness.png" alt="bulb icon">
-                            <p>Adjust brightness accordingly</p>
+                        <div class="col-md-12">
+                            <p>We also structured our system frame, determining connection details from WeChat to appliances. </p>
                         </div>
-                        <div class="col-md-6 text-center pic-space">
-                            <img class="icon-space" src="image/temperature.png" alt="temperature icon">
-                            <p>Monitor environment information</p>
+                        <div class="col-md-12 pic-space">
+                            <img src="image/wehome-framework.png" width="100%" alt="framework of system">
                         </div>
-                        <div class="col-md-6 text-center pic-space">
-                            <img class="icon-space" src="image/timer.png" alt="timer icon">
-                            <p>set up timer for different functions</p>
+                        <div class="col-md-12 top-space">
+                            <h4 class="subtitle-space">
+                                <span class="subtitle-underline">Paper Sketch</span>
+                            </h4>
+                            <p>To tackle the problem that most smart appliances are too expensive, we managed to "update" normal appliances by using smart sockets. This smart socket will contain ZigBee inside. We paper-sketched our socket prototype as follows.</p>
                         </div>
                         <div class="col-md-12 top-space">
                             <h4 class="subtitle-space">
                                 <span class="subtitle-underline">Expert Feedback</span>
                             </h4>
-                            <p>We asked feedback from experts about the feasibility and novelty. The experts gave us positive opinions and helped us confirm that the functions that we planed to implement are feasibile.</p>
+                            <p>After finished the original design, we asked feedback from experts about the feasibility and novelty. The experts gave us positive opinions. They also helped us confirm that the functions we planned to implement are feasible.</p>
                         </div>
                     </div>
                 </div>
@@ -221,41 +305,30 @@
                         <h1>Prototype</h1>
                     </div>
                     <div class="col-md-12">
-                        <p>After determining the technology and functions, we started to build the prototype system. This prototype contains two parts: pyhsical prototype (ZigBee development) and platform construction (WeChat development).</p>
-                        <p>To build a pyhsical prototype, we decided to reform socket so that normal appliances can be  upgraded into intelligent appliances. We implemented several terminal nodes connecting appliances and a coordinator node connecting server. Each terminal node controls one appliance. And the coordinator node transfers data between server and terminal nodes. The following graph demonstrates the relationship between each parts.</p>
-                    </div>
-                    <div class="col-md-12 pic-space">
-                        <img src="image/wehome-framework.png" width="100%" alt="framework of system">
+                        <p>This prototype contains two parts: physical prototype (ZigBee development) and software prototype (WeChat development).</p>
+                        <p>For physical prototype, we reformed sockets and upgraded them to smart sockets.</p>
                     </div>
                     <div class="col-md-12">
-                        <p>WeChat offers developers the platform to create their own offical accounts and implement different applications as they want. Based on this, we were able to create different control modes for our system.</p>
+                        <p>For software prototype, we utilized WeChat Official Account to implement our 3 control modes.</p>
                     </div>
                     <div class="col-md-4 text-center pic-space">
-                        <img class="icon-space" src="image/voice-icon.png" alt="voice control icon">
-                        <p>Voice Control</p>
+                        <img class="bottom-space" src="image/wehome-voice-control.png" width="100%" alt="voice control">
+                        <p>Voice Control Mode</p>
                     </div>
                     <div class="col-md-4 text-center pic-space">
-                        <img class="icon-space" src="image/text-input-icon.png" alt="text control icon">
-                        <p>Text-input Control</p>
+                        <img class="bottom-space" src="image/wehome-text-input-control.png" width="100%" alt="text input control">
+                        <p>Text-input Control Mode</p>
                     </div>
                     <div class="col-md-4 text-center pic-space">
-                        <img class="icon-space" src="image/interface-icon.png" alt="user interface control icon">
-                        <p>User Interface Control</p>
-                    </div>
-                    <div class="col-md-4 text-center pic-space">
-                        <img src="image/wehome-voice-control.png" width="100%" alt="voice control">
-                    </div>
-                    <div class="col-md-4 text-center pic-space">
-                        <img src="image/wehome-text-input-control.png" width="100%" alt="text input control">
-                    </div>
-                    <div class="col-md-4 text-center pic-space">
-                        <img src="image/wehome-interface-control1.png" width="100%" alt="interface control">
+                        <img class="bottom-space" src="image/wehome-interface-control1.png" width="100%" alt="interface control">
+                        <p>Interface Control Mode &mdash; Phone</p>
                     </div>
                     <div class="col-md-12">
-                        <p>We also implemented interface control on tablet, which is better to control.</p>
+                        <p>We also implemented interface control on tablet, which is even better to control.</p>
                     </div>
-                    <div class="col-md-12 pic-space">
-                        <img src="image/wehome-interface-control2.png" width="100%" alt="interface control on tablet">
+                    <div class="col-md-8 offset-md-2 text-center pic-space">
+                        <img class="bottom-space" src="image/wehome-interface-control2.png" width="100%" alt="interface control on tablet">
+                        <p>Interface Control Mode &mdash; Tablet</p>
                     </div>
                 </div>
                 <div class="row">
@@ -263,45 +336,35 @@
                         <h1>Evaluation</h1>
                     </div>
                     <div class="col-md-12">
-                        <p>After we finished the prototype, we recruited several users to go through our prototype. By conducting user testing, we were able to get their impressions and identify issues on our design.</p>
+                        <p>After we finished the prototype, we recruited several users to go through our prototype. By conducting user testing, we got their impressions and identified issues in our design.</p>
                     </div>
                     <div class="col-md-4 text-center pic-space">
-                        <img class="icon-space" src="image/wehome-mode-icon.png" alt="evaluation icon">
+                        <img class="icon-space" src="image/wehome-mode-icon.svg" width="25%" alt="3 control modes icon">
                         <h5>Control Modes</h5>
-                        <p>Voice control, text input control, user interface control</p>
+                        <p>Voice control, text-input control, interface control</p>
                     </div>
                     <div class="col-md-4 text-center pic-space">
-                        <img class="icon-space" src="image/wehome-participant-icon.png" alt="6 participants icon">
+                        <img class="icon-space" src="image/wehome-participant-icon.svg" width="25%" alt="8 participants icon">
                         <h5>Participants</h5>
-                        <p>Each participant tested all three controlmodes in random order</p>
+                        <p>Each participant tested all three control modes in random order</p>
                     </div>
                     <div class="col-md-4 text-center pic-space">
-                        <img class="icon-space" src="image/fittingeasy-metric-icon.png" alt="literature review icon">
+                        <img class="icon-space" src="image/wehome-metric-icon.svg" width="25%" alt="metrics icon">
                         <h5>Metrics Measured</h5>
                         <p>Learnability, efficiency, error and satisfication</p>
-                    </div>
-                    <div class="col-md-12">
-                        <p>For each control mode, we set up exactly the same tasks for participants to perform, including:</p>
-                    </div>
-                    <div class="col-md-12">
-                        <ul>
-                            <li>Get the environment temperature.</li>
-                            <li>Set the bedroom lamp to turn off in 2 minutes later.</li>
-                            <li>Turn on fan.</li>
-                        </ul>
                     </div>
                     <div class="col-md-12 top-space">
                         <h4 class="subtitle-space">
                             <span class="subtitle-underline">Results</span>
                         </h4>
-                        <p>The graphs below are an overall evaluation on our design based on the results from user testing. We discovered several things related to our design:</p>
+                        <p>The graphs below is an overall evaluation on our design. We found out:</p>
                     </div>
                     <div class="col-md-12">
                         <ul>
-                            <li><span style="color:#45c4fe;">Our system is easy to learn in all three control modes</span>, the instruction is very clear for users to understand.</li>
-                            <li><span style="color:#45c4fe;">Poor internet can impact on our system a lot</span>, slow internet transmission leads to slow feedback, which minimizes user experience.</li>
-                            <li><span style="color:#45c4fe;">User interface control is the most intuitive</span>, compared with other two control modes.</li>
-                            <li><span style="color:#45c4fe;">Users expect more functions in this system</span>, for example, fire alarm.</li>
+                            <li><span style="color:#00d100;">Our system is easy to learn in all three control modes</span>, the instruction is very clear for users to understand.</li>
+                            <li><span style="color:#00d100;">Poor internet can impact on our system a lot</span>, slow internet transmission leads to slow feedback, which minimizes user experience.</li>
+                            <li><span style="color:#00d100;">Interface control is the most intuitive control mode</span>, compared with other two control modes.</li>
+                            <li><span style="color:#00d100;">Users expect more functions in this system</span>, for example, fire alarm, and automatic adjustment.</li>
                         </ul>
                     </div>
                     <div class="col-md-12">
@@ -311,16 +374,16 @@
                         <h4 class="subtitle-space">
                             <span class="subtitle-underline">Recommendations</span>
                         </h4>
-                        <p>Based on the feedback we received, we were able to identify issues existing in our design and provide the following recommendations for future work:</p>
+                        <p>Based on the feedback we received, we provided the following recommendations for further improvement:</p>
                     </div>
                     <div class="col-md-12">
                         <ul>
-                            <li><span style="color:#45c4fe;">Implement more environment sensors</span>, for example, smoke and luminous intensity.</li>
-                            <li><span style="color:#45c4fe;">Realize the functionality of automatically adjusting appliances according to environment data</span>, for example, turn on or off fan according to temperature.</li>
-                            <li><span style="color:#45c4fe;">Optimize the design of our intelligent socket.</span></li>
-                            <li><span style="color:#45c4fe;">Implement the functionality of privacy control</span>, use account and password to make multiple users control their own appliances seperately but in one official WeChat account.</li>
-                            <li><span style="color:#45c4fe;">Optimize the user interface</span>, provide feedback when users use certain function.</li>
-                            <li><span style="color:#45c4fe;">Implement the functionality of adding or deleting appliances by user self</span>, provide users more freedom to control their appliances.</li>
+                            <li><span style="color:#00d100;">Implement more sensors to sense environment information</span>, for example, smoke and luminous intensity.</li>
+                            <li><span style="color:#00d100;">Realize the functionality of automatically adjusting appliances according to environment change</span>, for example, turn on or off fan according to temperature.</li>
+                            <li><span style="color:#00d100;">Optimize the design of our socket</span>, currently the appearance of smart sockets is poorly designed</li>
+                            <li><span style="color:#00d100;">Implement the functionality of privacy control</span>, use account and password to make multiple users control their own appliances separately but in one official WeChat account.</li>
+                            <li><span style="color:#00d100;">Optimize the user interface</span>, provide feedback when users use certain function.</li>
+                            <li><span style="color:#00d100;">Implement the functionality of adding or deleting appliances by user self</span>, provide users more freedom to control their appliances.</li>
                         </ul>
                     </div>
                 </div>
@@ -329,8 +392,8 @@
                         <h1>Conclusion</h1>
                     </div>
                     <div class="col-md-12">
-                        <p>As a sophomore, getting involved in a project like this can be really exciting and also challenging. This was the first time that I actually participated in each step of the whole process, from ideation to developemnt, and eventually presenting our prototype to industry people.</p>
-                        <p>During this project, I practiced my skill of both design and coding. The most important thing I acquired was the ability to solve problems independently. I learned how to adjust myself when things are stuck in somewhere. Being patient and positive, You will finally sort it out!</p>
+                        <p>As a sophomore, getting involved in a project like this can be really exciting and also challenging. This was the first time that I actually participated in each step of the whole process, from research to development, and eventually presenting our prototype to industry people.</p>
+                        <p>During this project, I practiced my skills in both design and coding. The most important thing I acquired was the ability to solve problems independently. I learned how to adjust myself and find the solution when things are stuck. Being patient and positive, you will finally sort it out!</p>
                     </div>
                 </div>
             </div>

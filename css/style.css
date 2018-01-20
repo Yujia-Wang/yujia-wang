@@ -117,7 +117,7 @@
 
 .top-space {padding-top: 2em;}
 
-.bottom-space {padding-bottom: 2em;}
+.bottom-space {padding-bottom: 1em;}
 
 /* button */
 
@@ -141,15 +141,15 @@
 
 .wehome-process {
 	border-radius: 25px;
-	border-color: #45c4fe;
-	color: #45c4fe;
+	border-color: #00d100;
+	color: #00d100;
 	background-color: transparent;
 }
 
 .wehome-process:hover {
-	border-color: #45c4fe;
+	border-color: #00d100;
 	color: #000;
-	background-color: #45c4fe;	
+	background-color: #00d100;	
 }
 
 /* quote */
