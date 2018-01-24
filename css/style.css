@@ -1,5 +1,15 @@
 /***** homepage *****/
 
+.fittingeasy-a:hover {
+	color: #3ac3ea; 
+	text-decoration: none;
+}
+
+.wehome-a:hover {
+	color: #00d100;
+	text-decoration: none;
+}
+
 /* intro */
 
 .intro {
