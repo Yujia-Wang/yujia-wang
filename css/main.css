@@ -59,6 +59,10 @@ footer {
 .project-section {
 	position: relative;
 	padding-top: 10em;
-	padding-bottom: 10em;
+	padding-bottom: 6em;
 }
+
+/* bottom-nav */
+
+.bottom-nav-space {padding-top: 6em;}
 
