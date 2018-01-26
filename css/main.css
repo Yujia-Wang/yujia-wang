@@ -50,6 +50,77 @@ footer {
 	color: #fff;
 }
 
+/* side navigation */
+
+.dotstyle ul {
+	position: fixed;
+	right: 3.5em;
+	top: 35%;
+	list-style: none;
+}
+
+.dotstyle li {
+	margin: 1em 0;
+}
+
+.dotstyle a {
+	position: relative;
+	width: 1em;
+	height: 1em;
+	border-radius: 50%;
+	border: .1em solid;
+	display: block;
+}
+
+.dotstyle span {
+	position: absolute;
+	top: -40%;
+	left: -10em;
+	visibility: hidden;
+	color: #fff;
+}
+
+.dotstyle a:hover {
+	background-color: #fff;
+}
+
+.dotstyle a:hover span {
+	visibility: visible;
+}
+
+.is-active {
+	background-color: #fff;
+}
+
+/*.dotstyle-fillup a {
+	overflow: hidden;
+	background-color: transparent;
+	box-shadow: inset 0 0 0 2px white;
+	-webkit-transition: background 0.3s ease;
+	transition: background 0.3s ease;
+}
+
+.dotstyle-fillup a::after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	height: 0;
+	left: 0;
+	width: 100%;
+	background-color: #fff;
+	box-shadow: 0 0 1px #fff;
+	-webkit-transition: height 0.3s ease;
+	transition: height 0.3s ease;
+}
+
+.dotstyle-fillup a:hover {
+	background-color: rgba(0,0,0,0.2);
+}
+
+.is-active a::after{
+	height: 100%;
+}*/
+
 /* footer */
 
 .footer-icons {font-size: 2em;}
@@ -80,6 +151,7 @@ footer {
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
 }
+
 
 
 
