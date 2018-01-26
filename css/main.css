@@ -52,6 +52,8 @@ footer {
 
 /* side navigation */
 
+.dotstyle {display: none;}
+
 .dotstyle ul {
 	position: fixed;
 	right: 3.5em;
