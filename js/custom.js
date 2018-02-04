@@ -1,31 +1,35 @@
-
-/* button */
-
-function r_btnName() {
-	if(document.getElementById("researchBtn").innerHTML=="See Research Process") {
-		document.getElementById("researchBtn").innerHTML="Hide Research Process";
-	} else {
-		document.getElementById("researchBtn").innerHTML="See Research Process";
-	}
-}
-
-function d_btnName() {
-	if(document.getElementById("designBtn").innerHTML=="See Design Process") {
-		document.getElementById("designBtn").innerHTML="Hide Design Process";
-	} else {
-		document.getElementById("designBtn").innerHTML="See Design Process";
-	}
-}
-
-function e_btnName() {
-	if(document.getElementById("evaluationBtn").innerHTML=="See Evaluation Process") {
-		document.getElementById("evaluationBtn").innerHTML="Hide Evaluation Process";
-	} else {
-		document.getElementById("evaluationBtn").innerHTML="See Evaluation Process";
-	}
-}
-
 $(document).ready(function() {
+
+	/* preloader */
+	setTimeout(function() {
+		$(".loader-wrapper").fadeOut();
+		$("#homepage").fadeIn(1000);
+	}, 3500);
+
+	/* button */
+	$("#researchBtn").click(function() {
+		if($("#researchBtn").text() == "See Research Process") {
+			$("#researchBtn").text("Hide Research Process");
+		} else {
+			$("#researchBtn").text("See Research Process");
+		}
+	});
+
+	$("#designBtn").click(function() {
+		if($("#designBtn").text() == "See Design Process") {
+			$("#designBtn").text("Hide Design Process");
+		} else {
+			$("#designBtn").text("See Design Process");
+		}
+	});
+
+	$("#evaluationBtn").click(function() {
+		if($("#evaluationBtn").text() == "See Evaluation Process") {
+			$("#evaluationBtn").text("Hide Evaluation Process");
+		} else {
+			$("#evaluationBtn").text("See Evaluation Process");
+		}
+	});
 
 	/* navbar */
 	var lastScrollTop = 0;
@@ -35,12 +39,12 @@ $(document).ready(function() {
 
 		if(st > lastScrollTop) {
 			// Scroll down
-			$('nav').fadeOut();
+			$("nav").fadeOut();
 		} else {
 			// Scroll up
-			$('nav').fadeIn().addClass('nav-up');
+			$("nav").fadeIn().addClass("nav-up");
 			if(st == 0) {
-				$('nav').removeClass('nav-up');
+				$("nav").removeClass("nav-up");
 			}
 		}
 
@@ -52,16 +56,16 @@ $(document).ready(function() {
 
 	$(window).scroll(function() {
 		if($(this).scrollTop() >= 200) {
-			$('.back2top-btn').fadeIn(200);
+			$(".back2top-btn").fadeIn(200);
 		} else {
-			$('.back2top-btn').fadeOut(200);
+			$(".back2top-btn").fadeOut(200);
 		}
 	});
 
-	$('.back2top-btn').click(function(event) {
+	$(".back2top-btn").click(function(event) {
 		event.preventDefault();
 
-		$('body, html').animate({scrollTop: 0}, 500);
+		$("body, html").animate({scrollTop: 0}, 500);
 
 		return false;
 	});
@@ -70,20 +74,20 @@ $(document).ready(function() {
 
 	$(window).scroll(function() {
 		if($(this).scrollTop() >= 200) {
-			$('.dotstyle').fadeIn(200);
+			$(".dotstyle").fadeIn(200);
 		} else {
-			$('.dotstyle').fadeOut(200);
+			$(".dotstyle").fadeOut(200);
 		}
 	});
 
-	$('.dotstyle a').click(function(event) {
+	$(".dotstyle a").click(function(event) {
 		event.preventDefault();
 
-		var $href = $($(this).attr('href'));
+		var $href = $($(this).attr("href"));
 
-		$(this).addClass('is-active');
-		$(this).parent().siblings().children().removeClass('is-active');
-		$('body, html').animate({scrollTop: $href.offset().top - 30}, 500);
+		$(this).addClass("is-active");
+		$(this).parent().siblings().children().removeClass("is-active");
+		$("body, html").animate({scrollTop: $href.offset().top - 30}, 500);
 	});
 
 
