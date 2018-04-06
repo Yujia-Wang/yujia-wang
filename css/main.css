@@ -14,7 +14,7 @@ a:hover {
 	text-decoration: none;
 }
 
-h1, h4, h5, ul {
+h1, h3, h4, h5, ul {
 	letter-spacing: .05em;
 	word-spacing: .2em;
 }
@@ -141,6 +141,39 @@ footer {
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
+}
+
+
+
+
+
+
+/*** project main frame ***/
+.title-space {
+	margin-top: 3em;
+	margin-bottom: 5em;
+}
+
+.tiny-space1 {
+	margin-top: 1em;
+}
+
+.tiny-space2 {
+	margin-bottom: .8em;
+}
+
+.text-align {
+	text-align: justify;
+}
+
+
+
+
+
+
+.section-divider {
+	margin-top: 3em;
+	border-bottom: solid 1px #fff;
 }
 
 
