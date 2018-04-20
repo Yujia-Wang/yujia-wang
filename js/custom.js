@@ -1,35 +1,29 @@
 $(document).ready(function() {
 
-	/* preloader */
-	setTimeout(function() {
-		$(".loader-wrapper").fadeOut();
-		$("#homepage").fadeIn(1000);
-	}, 3500);
-
 	/* button */
-	$("#researchBtn").click(function() {
-		if($("#researchBtn").text() == "See Research Process") {
-			$("#researchBtn").text("Hide Research Process");
-		} else {
-			$("#researchBtn").text("See Research Process");
-		}
-	});
+	// $("#researchBtn").click(function() {
+	// 	if($("#researchBtn").text() == "See Research Process") {
+	// 		$("#researchBtn").text("Hide Research Process");
+	// 	} else {
+	// 		$("#researchBtn").text("See Research Process");
+	// 	}
+	// });
 
-	$("#designBtn").click(function() {
-		if($("#designBtn").text() == "See Design Process") {
-			$("#designBtn").text("Hide Design Process");
-		} else {
-			$("#designBtn").text("See Design Process");
-		}
-	});
+	// $("#designBtn").click(function() {
+	// 	if($("#designBtn").text() == "See Design Process") {
+	// 		$("#designBtn").text("Hide Design Process");
+	// 	} else {
+	// 		$("#designBtn").text("See Design Process");
+	// 	}
+	// });
 
-	$("#evaluationBtn").click(function() {
-		if($("#evaluationBtn").text() == "See Evaluation Process") {
-			$("#evaluationBtn").text("Hide Evaluation Process");
-		} else {
-			$("#evaluationBtn").text("See Evaluation Process");
-		}
-	});
+	// $("#evaluationBtn").click(function() {
+	// 	if($("#evaluationBtn").text() == "See Evaluation Process") {
+	// 		$("#evaluationBtn").text("Hide Evaluation Process");
+	// 	} else {
+	// 		$("#evaluationBtn").text("See Evaluation Process");
+	// 	}
+	// });
 
 	/* navbar */
 	var lastScrollTop = 0;
@@ -50,6 +44,16 @@ $(document).ready(function() {
 
 		lastScrollTop = st;
 
+	});
+
+	/* project */
+
+	$("#fittingeasy").click(function() {
+		location.href = "fittingeasy.html"
+	});
+
+	$("#wehome").click(function() {
+		location.href = "wehome.html"
 	});
 
 	/* back-to-top button */
