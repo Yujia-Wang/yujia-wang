@@ -76,23 +76,23 @@ $(document).ready(function() {
 
 	/* side navigation */
 
-	$(window).scroll(function() {
-		if($(this).scrollTop() >= 200) {
-			$(".dotstyle").fadeIn(200);
-		} else {
-			$(".dotstyle").fadeOut(200);
-		}
-	});
+	// $(window).scroll(function() {
+	// 	if($(this).scrollTop() >= 200) {
+	// 		$(".dotstyle").fadeIn(200);
+	// 	} else {
+	// 		$(".dotstyle").fadeOut(200);
+	// 	}
+	// });
 
-	$(".dotstyle a").click(function(event) {
-		event.preventDefault();
+	// $(".dotstyle a").click(function(event) {
+	// 	event.preventDefault();
 
-		var $href = $($(this).attr("href"));
+	// 	var $href = $($(this).attr("href"));
 
-		$(this).addClass("is-active");
-		$(this).parent().siblings().children().removeClass("is-active");
-		$("body, html").animate({scrollTop: $href.offset().top - 30}, 500);
-	});
+	// 	$(this).addClass("is-active");
+	// 	$(this).parent().siblings().children().removeClass("is-active");
+	// 	$("body, html").animate({scrollTop: $href.offset().top - 30}, 500);
+	// });
 
 
 });

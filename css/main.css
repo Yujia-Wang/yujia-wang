@@ -6,7 +6,7 @@ a, h1, h2, h3, h4 {
 }
 
 a {
-	letter-spacing: .2em;
+	letter-spacing: .1em;
 }
 
 a:hover {
@@ -47,71 +47,9 @@ footer {
 	font-family: "Lobster", sans-serif;
 	font-size: 1.2em;
 	letter-spacing: .2em;
-	word-spacing: .4em;
 	color: #006989;
 }
 
-/* side navigation */
-
-.dotstyle {display: none;}
-
-.dotstyle ul {
-	position: fixed;
-	right: 2.5em;
-	top: 35%;
-	list-style: none;
-}
-
-.dotstyle li {
-	margin: 1em 0;
-}
-
-.dotstyle a {
-	position: relative;
-	width: 1em;
-	height: 1em;
-	border-radius: 50%;
-	border: .1em solid;
-	display: block;
-}
-
-.dotstyle span {
-	position: absolute;
-	top: -40%;
-	left: -10em;
-	visibility: hidden;
-	color: #fff;
-	width: 9em;
-	height: 1.5em;
-	border-radius: 1em;
-	text-align: center;
-}
-
-.fittingeasy-side {
-	border: .1em solid #1f8aef;
-	background-color: rgba(31, 138, 239, 0.7); 
-}
-
-.wehome-side {
-	border: .1em solid #4a90e2;
-	background-color: rgba(74, 144, 226, 0.7);
-}
-
-.dotstyle a:hover {
-	width: 1em;
-	height: 1em;
-	border-radius: 50%;
-	border: .1em solid #fff;
-	background-color: #fff;
-}
-
-.dotstyle a:hover span {
-	visibility: visible;
-}
-
-.is-active {
-	background-color: #fff;
-}
 
 /* footer */
 
