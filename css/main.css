@@ -2,7 +2,7 @@ a, h1, h2, h3, h4 {
 	margin: 0;
 	padding: 0;
 	font-family: "Montserrat", sans-serif;
-	color: #313843;
+	color: #707070;
 }
 
 a {
@@ -19,8 +19,12 @@ h1, h2, h3, h4, h5, ul {
 	word-spacing: .2em;
 }
 
-p, h5 {
+p, h5, ul {
 	font-family: "Open Sans", sans-serif;
+}
+
+p {
+    line-height: 1.8em;
 }
 
 footer {
@@ -34,7 +38,7 @@ footer {
 }
 
 .OpenSans-bold {
-	font-weight: 700;
+	font-weight: 600;
 }
 
 /* navigation */
