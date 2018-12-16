@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1551px" height="477px" viewBox="0 0 1551 477" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>A4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.0%" y="-12.6%" width="104.1%" height="125.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="A4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1551" height="477"></rect>
+        <g id="Group-4" filter="url(#filter-1)" transform="translate(23.000000, 125.000000)" fill="#479FF1" fill-opacity="0.3">
+            <circle id="Oval" cx="35" cy="119" r="35"></circle>
+            <circle id="Oval-Copy" cx="100" cy="119" r="54"></circle>
+            <circle id="Oval-Copy-2" cx="158" cy="119" r="54"></circle>
+            <circle id="Oval-Copy-3" cx="218" cy="119" r="45"></circle>
+            <circle id="Oval-Copy-4" cx="289" cy="119" r="64"></circle>
+            <circle id="Oval-Copy-5" cx="371" cy="119" r="79"></circle>
+            <circle id="Oval-Copy-6" cx="408" cy="119" r="79"></circle>
+            <circle id="Oval-Copy-7" cx="547" cy="119" r="76"></circle>
+            <circle id="Oval-Copy-8" cx="650" cy="119" r="119"></circle>
+            <circle id="Oval-Copy-9" cx="768" cy="119" r="49"></circle>
+            <circle id="Oval-Copy-10" cx="806" cy="119" r="37"></circle>
+            <circle id="Oval-Copy-11" cx="856" cy="119" r="39"></circle>
+            <circle id="Oval-Copy-12" cx="960" cy="119" r="91"></circle>
+            <circle id="Oval-Copy-13" cx="1075" cy="119" r="115"></circle>
+            <circle id="Oval-Copy-14" cx="1185" cy="119" r="49"></circle>
+            <circle id="Oval-Copy-15" cx="1263" cy="119" r="57"></circle>
+            <circle id="Oval-Copy-16" cx="1320" cy="119" r="39"></circle>
+            <circle id="Oval-Copy-17" cx="1395" cy="119" r="75"></circle>
+        </g>
+        <path d="M1377.186,221 L1470.5,221 C1482.92641,221 1493,231.073593 1493,243.5 L1493,244.5 C1493,256.926407 1482.92641,267 1470.5,267 L45.5,267 C33.0735931,267 23,256.926407 23,244.5 L23,243.5 C23,231.073593 33.0735931,221 45.5,221 L1121,221 L1077.5,182.924569 C1094.60411,181.930127 1103.15617,181.432906 1103.15617,181.432906 C1126.51414,132.67352 1176.32463,99 1234,99 C1306.25429,99 1366.16509,151.848795 1377.186,221 Z M1121.30042,221 L1346.69958,221 C1336.04437,168.508473 1289.63603,129 1234,129 C1178.36397,129 1131.95563,168.508473 1121.30042,221 Z" id="Combined-Shape" fill="#479FF1"></path>
+        <text id="RESEARCH" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="237.409668" y="251">RESEARCH</tspan>
+        </text>
+        <text id="DESIGN" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="710.147461" y="251">DESIGN</tspan>
+        </text>
+        <text id="PROTOTYPE" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="1056.29346" y="251">PROTOTYPE</tspan>
+        </text>
+        <text id="EVALUATION" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="1304.40527" y="251">EVALUATION</tspan>
+        </text>
+        <text id="ITERATION" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="1190.09326" y="124">ITERATION</tspan>
+        </text>
+        <g id="Group-2" transform="translate(62.000000, 36.000000)" fill="#2C2D32" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
+            <text id="Literature-Review">
+                <tspan x="0" y="22">Literature Review</tspan>
+            </text>
+            <text id="Competitive-Analysis">
+                <tspan x="65" y="402">Competitive Analysis</tspan>
+            </text>
+            <text id="Task-Analysis">
+                <tspan x="123" y="46">Task Analysis</tspan>
+            </text>
+            <text id="Survey">
+                <tspan x="184" y="370">Survey</tspan>
+            </text>
+            <text id="Interview">
+                <tspan x="254" y="72">Interview</tspan>
+            </text>
+            <text id="Persona">
+                <tspan x="337" y="354">Persona</tspan>
+            </text>
+            <text id="User-Journey-Map">
+                <tspan x="374" y="95">User Journey Map</tspan>
+            </text>
+            <text id="Brainstorming">
+                <tspan x="512" y="401">Brainstorming</tspan>
+            </text>
+            <text id="Paper-Sketch">
+                <tspan x="735" y="389">Paper Sketch</tspan>
+            </text>
+            <text id="Storyboarding">
+                <tspan x="771" y="41">Storyboarding</tspan>
+            </text>
+            <text id="Wireframe">
+                <tspan x="925" y="64">Wireframe</tspan>
+            </text>
+            <text id="Prototyping">
+                <tspan x="1040" y="343">Prototyping</tspan>
+            </text>
+            <text id="Expert-Feedback">
+                <tspan x="1152" y="146">Expert Feedback</tspan>
+            </text>
+            <text id="Cognitive-Walkthroug">
+                <tspan x="1228" y="383">Cognitive Walkthrough</tspan>
+            </text>
+            <text id="Heuristic-Evaluation">
+                <tspan x="1285" y="72">Heuristic Evaluation</tspan>
+            </text>
+            <text id="Usability-Testing">
+                <tspan x="1360" y="346">Usability Testing</tspan>
+            </text>
+            <text id="Idea-Synthesizing">
+                <tspan x="615" y="15">Idea Synthesizing</tspan>
+            </text>
+            <text id="Expert-Feedback">
+                <tspan x="821" y="359">Expert Feedback</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(54.000000, 41.000000)">
+            <g id="Group" transform="translate(0.000000, 164.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy" transform="translate(65.000000, 253.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-2" transform="translate(123.000000, 145.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-4" transform="translate(254.000000, 135.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-4" transform="translate(373.000000, 120.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-6" transform="translate(615.000000, 80.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-9" transform="translate(771.000000, 162.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-11" transform="translate(925.000000, 108.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-13" transform="translate(1151.000000, 150.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-15" transform="translate(1285.000000, 160.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-16" transform="translate(1360.000000, 274.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-3" transform="translate(183.000000, 244.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-5" transform="translate(336.000000, 278.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-7" transform="translate(512.000000, 275.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-8" transform="translate(734.000000, 248.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-10" transform="translate(821.000000, 238.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-12" transform="translate(1040.000000, 314.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <g id="Group-Copy-14" transform="translate(1228.000000, 256.000000)">
+                <circle id="Oval-2" stroke="#479FF1" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-3" fill="#479FF1" cx="4" cy="4" r="2"></circle>
+            </g>
+            <path d="M4.25,163.5 L4.25,7.5" id="Line-5" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M69.25,400.5 L69.25,261.5" id="Line-5-Copy" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M187.25,368.5 L187.25,252.5" id="Line-5-Copy-3" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M340.25,348.5 L340.25,286.5" id="Line-5-Copy-5" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M516.25,399.5 L516.25,283.5" id="Line-5-Copy-7" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M738.208333,386.5 L738.208333,256.5" id="Line-5-Copy-9" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M825.208333,357.5 L825.208333,246.5" id="Line-5-Copy-11" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M1044.20139,341.5 L1044.20139,322.5" id="Line-5-Copy-13" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M1232.20023,380.5 L1232.20023,264.5" id="Line-5-Copy-15" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M1364.20004,343.5 L1364.20004,282.5" id="Line-5-Copy-17" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M127.25,144.5 L127.25,31.5" id="Line-5-Copy-2" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M258.25,134.5 L258.25,57.5" id="Line-5-Copy-4" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M377.25,119.5 L377.25,80.5" id="Line-5-Copy-6" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M619.25,79.5 L619.25,0.5" id="Line-5-Copy-8" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M775.208333,161.5 L775.208333,26.5" id="Line-5-Copy-10" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M929.200231,107.5 L929.200231,48.5" id="Line-5-Copy-12" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M1155.20004,149.5 L1155.20004,131.5" id="Line-5-Copy-14" stroke="#479FF1" stroke-linecap="round"></path>
+            <path d="M1289.20004,159.5 L1289.20004,57.5" id="Line-5-Copy-16" stroke="#479FF1" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

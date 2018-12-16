@@ -7,10 +7,9 @@
         <title>Yujia Wang</title>
         <!-- css files -->
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-        <link href="https://use.fontawesome.com/releases/v5.0.2/css/all.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster|Montserrat|Montserrat:light|Open+Sans|Open+Sans:b">
-        <link rel="stylesheet" type="text/css" href="css/main.css">
-        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-rTQdcTFdT69CgbBErourkScWQ6j5WQ4aAoCF0UyPhog3PNysM/xz/kqshWKP4NLA" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Open+Sans:300,400,600,700" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="css/custom.css">
         <link rel="shortcut icon" type="text/css" href="image/logo.png">
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114673558-1"></script>
@@ -25,12 +24,12 @@
         <!-- navgation -->
         <nav class="navbar navbar-expand-lg fixed-top affix-top" role="navigation">
             <div class="container">
-                <a class="navbar-brand logo-yujia" href="index.html">
-                    <img class="d-inline-block align-center" src="image/logo.png" width="40" height="40" alt="logo">
-                    Yujia Wang
+                <a class="navbar-brand name" href="index.html">
+                    <img class="d-inline-block align-center" src="image/logo.png" width="22" style="margin-right: 1.25em;">
+                    BOBO WANG
                 </a>
                 <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar-collapse">
-                    <span class="fas fa-bars" style="color:#fff"></span>
+                    <span class="fal fa-bars" style="color:#313843"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbar-collapse">
                     <ul class="navbar-nav ml-auto">
@@ -52,13 +51,20 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <img src="image/homepage.png" style="width: 100%; margin-top: 35vh">
+                        <div id="homepage-container" style="margin-top: 30vh;">
+                            <div class="img-comp-img">
+                                <img id="homepage-img1" src="image/homepage1.svg" style="width: 100%;">
+                            </div>
+                            <div class="img-comp-img img-comp-overlay">
+                                <img id="homepage-img2" src="image/homepage2.svg" style="width: 100%; background-color: #fff;">
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-md-12 text-center" style="margin-top: 10vh">
-                        <span style="font-size: 1.5em; font-weight: 300; color: #313843; letter-spacing: .1em">UX DESIGNER & ENGINEER</span>
+                    <div class="col-md-12 text-center" style="margin-top: 40vh">
+                        <span style="font-family: 'Montserrat', sans-serif; font-size: 1.5em; font-weight: 300; color: #313843; letter-spacing: .1em">UX DESIGNER & ENGINEER</span>
                     </div>
-                    <div class="col-md-12 text-center" style="margin-top: 30vh">
-                        <span class="fas fa-angle-double-down" style="font-size: 1.8em; color: #313843"></span>
+                    <div class="col-md-12 text-center" style="margin-top: 16vh">
+                        <span class="fal fa-angle-double-down" style="font-size: 1.8em; color: #313843"></span>
                     </div>
                 </div>
             </div>
@@ -68,28 +74,58 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <h2 class="Montserrat-light">FEATURED PROJECTS</h2>
+                        <h2>FEATURED PROJECTS</h2>
                     </div>
                 </div>
                 <div class="row" style="margin-top: 15vh">
-                    <div class="col-md-4 offset-md-1">
-                        <div id="fittingeasy" class="project-shadow">
+                    <div class="col-md-6">
+                        <div id="foodex" class="project-container">
+<!--
                             <img src="image/fittingeasy-home.png" width="100%">
                             <div class="fittingeasy">
                                 <h3 style="margin-top: 2vh">FITTINGEASY</h3>
                                 <p class="text-align" style="margin-top: 2vh">FittingEasy is an app for wheelchair users to improve their fitting room experience.</p>
                                 <p>Universal Design | Clothes Shopping </p>
                             </div>
+-->
                         </div>
                     </div>
-                    <div class="col-md-4 offset-md-2">
-                        <div id="wehome" class="project-shadow">
+                    <div class="col-md-6">
+                        <div id="vstyle" class="project-container" style="float: right;">
+<!--
                             <img src="image/wehome-home.png" width="100%">
                             <div class="wehome">
                                 <h3 style="margin-top: 2vh">WEHOME</h3>
                                 <p class="text-align" style="margin-top: 2vh">WeHome is a smart home system based on WeChat.</p>
                                 <p>Smart Home | WeChat </p>
                             </div>
+-->
+                        </div>
+                    </div>
+                </div>
+                <div class="row" style="margin-top: 3.5em;">
+                    <div class="col-md-6">
+                        <div id="fittingeasy" class="project-container">
+<!--
+                            <img src="image/fittingeasy-home.png" width="100%">
+                            <div class="fittingeasy">
+                                <h3 style="margin-top: 2vh">FITTINGEASY</h3>
+                                <p class="text-align" style="margin-top: 2vh">FittingEasy is an app for wheelchair users to improve their fitting room experience.</p>
+                                <p>Universal Design | Clothes Shopping </p>
+                            </div>
+-->
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div id="robustime" class="project-container" style="float: right;">
+<!--
+                            <img src="image/wehome-home.png" width="100%">
+                            <div class="wehome">
+                                <h3 style="margin-top: 2vh">WEHOME</h3>
+                                <p class="text-align" style="margin-top: 2vh">WeHome is a smart home system based on WeChat.</p>
+                                <p>Smart Home | WeChat </p>
+                            </div>
+-->
                         </div>
                     </div>
                 </div>
@@ -98,17 +134,16 @@
         <!-- footer -->
         <footer>
             <div class="container">
-                <div class="row align-items-center justify-content-between">
-                    <div class="col-sm-12 col-md-4 text-center">
-                        Yujia Wang &copy; 2018 All Rights Reserved.
+                <div class="row">
+                    <div class="col-md-5 copyright">
+                        Yujia (Bobo) Wang &copy; 2018 All Rights Reserved.
                     </div>
-                    <div class="col-sm-12 col-md-4 text-center footer-icons">
+                    <div class="col-md-4 offset-md-3 footer-icons" style="text-align: right;">
                         <a class="fas fa-envelope" href="mailto:yujia.wang@gatech.edu"></a>
-                        <a class="fab fa-facebook-square" href="https://www.facebook.com/yujia.wang.06" target="_blank"></a>
-                        <a class="fab fa-github-square" href="https://github.com/Yujia-Wang" target="_blank"></a>
-                        <a class="fab fa-linkedin" href="https://www.linkedin.com/in/yujia-wang" target="_blank"></a>
+                        <a class="fab fa-facebook-f" href="https://www.facebook.com/yujia.wang.06" target="_blank"></a>
+                        <a class="fab fa-linkedin-in" href="https://www.linkedin.com/in/yujia-wang" target="_blank"></a>
                     </div>
-                </div>    
+                </div>
             </div>
         </footer>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>

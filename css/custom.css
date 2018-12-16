@@ -1,0 +1,190 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #313843;
+}
+
+a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    letter-spacing: .1em;
+    color: #313843;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #cde7f8;
+}
+
+h1, h2, h3, h4 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+	letter-spacing: .1em;
+	word-spacing: .2em;
+    color: #313843;
+}
+
+p, ul {
+	font-family: "Open Sans", sans-serif;
+}
+
+p {
+    line-height: 1.8em;
+}
+
+footer {
+    position: relative;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.container {
+    padding-left: 4em;
+    padding-right: 4em;
+}
+
+nav a {
+    font-size: 1em;
+}
+
+.name {
+	font-family: "Montserrat", sans-serif;
+	font-size: 1em;
+}
+
+.nav-up {
+	background-color: #f3f3f3;
+}
+
+.intro {
+	height: 100vh;
+}
+
+#homepage-container {
+    position: relative;
+    width: 100%;
+}
+
+.img-comp-img {
+    position: absolute;
+    width: 100%;
+    overflow: hidden;
+}
+
+.img-comp-img img {
+  display:block;
+  vertical-align:middle;
+}
+
+.project {
+	position: relative;
+	padding-top: 8em;
+	padding-bottom: 8em;
+}
+
+.project-container {
+    width: 30em;
+    height: 30em;
+    border-radius: 15px;
+    box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.copyright {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1em;
+}
+
+.footer-icons {
+    font-size: 1.3em;
+}
+
+.footer-icons a {
+    margin-left: 1em;
+}
+
+/*** project main frame ***/
+
+.project-section {
+	position: relative;
+	/*padding-top: 2em;*/
+	padding-bottom: 6em;
+}
+
+.title-space {
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+
+.tiny-space1 {
+	margin-top: 3em;
+}
+
+.tiny-space2 {
+	margin-bottom: .8em;
+}
+
+.text-align {
+	text-align: justify;
+}
+
+.section-divider {
+	margin-top: 5em;
+	border-bottom: solid 1px #313843;
+}
+
+.title-pic {
+    padding-bottom: 5em;
+}
+
+.project-img {
+	height: 100vh;
+}
+
+.pic-space {
+	margin-top: 1em;
+}
+
+.pic-shadow {
+    box-shadow: 0 5px 20px 0 #d8d8d8;
+}
+
+.pic-bottom-space {
+	margin-bottom: 1em;
+}
+
+/* bottom-nav */
+
+.bottom-nav-space {padding-top: 6em;}
+
+.back2top-btn {
+	position: fixed;
+	right: 2em;
+	bottom: 3em;
+	display: none;
+}
+
+.back2top-btn a{
+	-webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+/*** about ***/
+
+.about {
+	position: relative;
+	padding-top: 10em;
+	padding-bottom: 10em;
+}
+
+.contact-icons {font-size: 2.5em;}
+
+/*** fittingeasy ***/
+
+.fittingeasy-quote {
+	font-style: italic;
+	color: #1f8aef;
+}
+
