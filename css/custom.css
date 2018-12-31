@@ -82,10 +82,10 @@ nav a {
 }
 
 .project-container {
-    width: 30em;
-    height: 30em;
+    width: 100%;
+/*    height: 30em;*/
     border-radius: 15px;
-    box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.3);
     background-color: #fff;
 }
 
@@ -175,8 +175,8 @@ nav a {
 
 .about {
 	position: relative;
-	padding-top: 10em;
-	padding-bottom: 10em;
+	padding-top: 8em;
+	padding-bottom: 8em;
 }
 
 .contact-icons {font-size: 2.5em;}
