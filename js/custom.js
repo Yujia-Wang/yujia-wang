@@ -25,28 +25,37 @@ $(document).ready(function() {
 	// 	}
 	// });
     
+//    ScrollReveal().reveal(".project", { delay: 500 });
+//    ScrollReveal().reveal(".intro", { delay: 500 });
+//    
+
+//    $('#fullpage').fullpage();
+    
+    
+    
     initComparisons();
 
 	/* navbar */
-	var lastScrollTop = 0;
-
-	$(window).scroll(function(event) {
-		var st = $(this).scrollTop();
-
-		if(st > lastScrollTop) {
-			// Scroll down
-			$("nav").fadeOut();
-		} else {
-			// Scroll up
-			$("nav").fadeIn().addClass("nav-up");
-			if(st == 0) {
-				$("nav").removeClass("nav-up");
-			}
-		}
-
-		lastScrollTop = st;
-
-	});
+//	var lastScrollTop = 0;
+//
+//	$(window).scroll(function(event) {
+//		var st = $(this).scrollTop();
+//
+//		if(st > lastScrollTop) {
+//			// Scroll down
+//			$("nav").fadeOut();
+//		} else {
+//			// Scroll up
+//			$("nav").fadeIn().addClass("nav-up");
+//			if(st == 0) {
+//				$("nav").removeClass("nav-up");
+//			}
+//		}
+//
+//		lastScrollTop = st;
+//
+//	});
+    
 
 	/* project */
     
@@ -128,7 +137,6 @@ $(document).ready(function() {
         var currentMousePos = { x: -1, y: -1 };
         
         w = img.offsetWidth;
-        console.log(w);
         
         img.style.width = (w / 2) + "px";
         
@@ -150,6 +158,8 @@ $(document).ready(function() {
         
         
     }
+    
+    $('#fullpage').fullpage();
 
 
 
