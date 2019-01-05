@@ -12,7 +12,7 @@ a {
 
 a:hover {
     text-decoration: none;
-    color: #cde7f8;
+/*    color: #000;*/
 }
 
 h1, h2, h3, h4 {
@@ -31,33 +31,48 @@ p {
     line-height: 1.8em;
 }
 
-footer {
-    position: relative;
-    padding-top: 2em;
-    padding-bottom: 2em;
-}
 
-.container {
-/*
-    padding-left: 4em;
-    padding-right: 4em;
-*/
-}
+
 
 /*******************/
 /*** side navbar ***/
 /*******************/
 
-nav a {
+.nav-text a {
     color: #fff;
     font-size: .7em;
 }
 
+.nav-text a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-text a:after {
+    content: "";
+    width: 0;
+    height: 2px;
+    border-radius: 10px;
+    background-color: #fff;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    opacity: 0;
+    transition: width .2s ease-in-out;
+}
+
+.nav-text a:hover:after {
+    opacity: 1;
+    width: 60px;
+}
+
 .sidenav {
-    width: 6em;
+    width: 7em;
     height: 100vh;
     position:fixed;
     background-color: #000;
+    z-index: 9999;
 }
 
 .sidenav .container {
@@ -86,6 +101,48 @@ nav a {
     margin-top: 2em;
 }
 
+.contact a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.contact a:after {
+    content: "";
+    width: 0;
+    height: 2px;
+    border-radius: 10px;
+    background-color: #fff;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    opacity: 0;
+    transition: width .2s ease-in-out;
+}
+
+.contact a:hover:after {
+    opacity: 1;
+    width: 30px;
+}
+
+.back {
+    padding-top: 3em;
+    padding-bottom: 5em;
+}
+
+.back a {
+    color: #fff;
+    font-size: 1.5em;
+    transition: all .2s ease-in-out;
+}
+
+.back a:hover {
+    text-decoration: none;
+    color: #fff;
+    transform: scale(1.2);
+}
+
+
 
 
 
@@ -108,7 +165,6 @@ nav a {
 
 .intro {
     height: 100vh;
-/*    margin-left: 6em;*/
 }
 
 #homepage-container {
@@ -134,7 +190,6 @@ nav a {
 
 .project {
     height: 100vh;
-/*    margin-left: 6em;*/
 }
 
 .horizontal-project {
@@ -146,7 +201,7 @@ nav a {
     overflow-y: hidden;
     white-space: nowrap;
     padding-top: 23vh;
-    padding-left: 6em;
+    padding-left: 7em;
 }
 
 .project-container {
@@ -163,7 +218,7 @@ nav a {
 }
 
 .project-container:last-child {
-    margin-right: 6em;
+    margin-right: 7em;
 }
 
 .project-container:hover {
@@ -180,6 +235,7 @@ nav a {
 
 
 
+/*
 .footer-icons {
     font-size: 1.3em;
 }
@@ -187,12 +243,37 @@ nav a {
 .footer-icons a {
     margin-left: 1em;
 }
+*/
 
+
+
+
+
+/**************************/
 /*** project main frame ***/
+/**************************/
+
+.project-img {
+	height: auto;
+}
+
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid .row {
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid .col-md-12 {
+    margin: 0;
+    padding: 0;
+}
 
 .project-section {
 	position: relative;
-	/*padding-top: 2em;*/
 	padding-bottom: 6em;
 }
 
@@ -222,9 +303,7 @@ nav a {
     padding-bottom: 5em;
 }
 
-.project-img {
-	height: 100vh;
-}
+
 
 .pic-space {
 	margin-top: 1em;
@@ -238,7 +317,40 @@ nav a {
 	margin-bottom: 1em;
 }
 
-/* bottom-nav */
+
+
+.problem-style {
+    background-color: #f2f2f2;
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+.problem-text1 {
+    text-align: center;
+}
+
+.problem-text2 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+	letter-spacing: .03em;
+	word-spacing: normal;
+    line-height: 1.5em;
+    color: #313843;
+    text-align: center;
+}
+
+.bottom-nav a div {
+    transition: all .2s ease-in-out;
+}
+
+.bottom-nav a:hover {
+    text-decoration: none;
+    color: #313843;
+}
+
+.bottom-nav a:hover div {
+    transform: scale(1.4);
+}
 
 .bottom-nav-space {padding-top: 6em;}
 
@@ -249,13 +361,20 @@ nav a {
 	display: none;
 }
 
-.back2top-btn a{
+.back2top-btn a {
 	-webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
 }
+
+.back2top-btn a:hover {
+    text-decoration: none;
+    color: #313843;
+    transform: scale(1.3);
+}
+
 
 /*** about ***/
 
@@ -267,10 +386,4 @@ nav a {
 
 .contact-icons {font-size: 2.5em;}
 
-/*** fittingeasy ***/
-
-.fittingeasy-quote {
-	font-style: italic;
-	color: #1f8aef;
-}
 

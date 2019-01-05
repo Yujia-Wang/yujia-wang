@@ -98,14 +98,14 @@
                 <tspan x="0" y="19">User Needs</tspan>
             </text>
             <g id="Group-Copy-3" transform="translate(0.000000, 44.000000)">
-                <text id="Wants-quick-and-dirt" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Wants quick and dirty food solutions</tspan>
+                <text id="Wants-a-quick-and-di" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
+                    <tspan x="12" y="15">Wants a quick and dirty food solution</tspan>
                 </text>
                 <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
             </g>
             <g id="Group-Copy-4" transform="translate(0.000000, 73.000000)">
-                <text id="Wants-to-save-money" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Wants to save money on dining</tspan>
+                <text id="Save-money-on-dining" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
+                    <tspan x="12" y="15">Save money on dining</tspan>
                 </text>
                 <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
             </g>
@@ -115,14 +115,14 @@
                 <tspan x="0" y="19">User Frustrations</tspan>
             </text>
             <g id="Group-Copy-3" transform="translate(0.000000, 44.000000)">
-                <text id="Doesn’t-have-time-to" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Doesn’t have time to cook or look for food</tspan>
+                <text id="Has-no-time-for-cook" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
+                    <tspan x="12" y="15">Has no time for cooking/preparing food</tspan>
                 </text>
                 <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
             </g>
             <g id="Group-Copy-4" transform="translate(0.000000, 73.000000)">
-                <text id="Thinks-that-food-del" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Thinks that food delivery costs too much</tspan>
+                <text id="Delivery-costs-are-h" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
+                    <tspan x="12" y="15">Delivery costs are high</tspan>
                 </text>
                 <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
             </g>
@@ -133,13 +133,13 @@
             </text>
             <g id="Group" transform="translate(0.000000, 44.000000)">
                 <text id="Working-day-and-nigh" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Working day and night for her dues and finals</tspan>
+                    <tspan x="12" y="15">Working day and night for his dues and finals</tspan>
                 </text>
                 <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
             </g>
             <g id="Group-Copy-2" transform="translate(0.000000, 73.000000)">
-                <text id="Relys-on-student-loa" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Relys on student loan for education</tspan>
+                <text id="Relies-on-a-student" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
+                    <tspan x="12" y="15">Relies on a student loan for education</tspan>
                 </text>
                 <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
             </g>

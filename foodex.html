@@ -4,11 +4,12 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Yujia Wang</title>
+        <title>Yujia Wang - FoodEx</title>
         <!-- css files -->
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-rTQdcTFdT69CgbBErourkScWQ6j5WQ4aAoCF0UyPhog3PNysM/xz/kqshWKP4NLA" crossorigin="anonymous">
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Open+Sans:300,400,600,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Open+Sans:300,400,600,700|Libre+Baskerville:400,400i,700" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.7/jquery.fullpage.css">
         <link rel="stylesheet" type="text/css" href="css/custom.css">
         <link rel="shortcut icon" type="text/css" href="image/logo.png">
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -22,41 +23,62 @@
     </head>
     <body>
         <!-- navgation -->
-        <nav class="navbar navbar-expand-lg fixed-top affix-top" role="navigation">
+        <nav class="sidenav">
             <div class="container">
-                <a class="navbar-brand name" href="index.html">
-                    <img class="d-inline-block align-center" src="image/logo.png" width="22" style="margin-right: 1.25em;">
-                    BOBO WANG
-                </a>
-                <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar-collapse">
-                    <span class="fal fa-bars" style="color:#313843"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbar-collapse">
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a class="nav-link" href="index.html">HOME</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="about.html">ABOUT</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="Yujia-Wang-resume.pdf" target="_blank">RESUME</a>
-                        </li>
-                    </ul>
+                <div class="row back">
+                    <div class="col-md-12 text-center">
+                        <a class="fal fa-long-arrow-left" href="index.html"></a>
+                    </div>
+                </div>
+                <div class="row nav-space nav-text">
+                    <div class="col-md-12 text-center">
+                        <a href="#overview">OVERVIEW</a>
+                    </div>
+                </div>
+                <div class="row nav-space nav-text">
+                    <div class="col-md-12 text-center">
+                        <a href="#research">RESEARCH</a>
+                    </div>
+                </div>
+                <div class="row nav-space nav-text">
+                    <div class="col-md-12 text-center">
+                        <a href="#design">DESIGN</a>
+                    </div>
+                </div>
+                <div class="row nav-space nav-text">
+                    <div class="col-md-12 text-center">
+                        <a href="#evaluation">EVALUATION</a>
+                    </div>
+                </div>
+                <div class="row nav-space nav-text">
+                    <div class="col-md-12 text-center">
+                        <a href="#reflection">REFLECTION</a>
+                    </div>
+                </div>
+                <div class="row contact">
+                    <div class="col-md-12 text-center">
+                        <a class="fas fa-envelope" href="mailto:yujia.wang@gatech.edu"></a>
+                    </div>
+                    <div class="col-md-12 text-center">
+                        <a class="fab fa-facebook-square" href="https://www.facebook.com/yujia.wang.06" target="_blank"></a>
+                    </div>
+                    <div class="col-md-12 text-center">
+                        <a class="fab fa-linkedin" href="https://www.linkedin.com/in/yujia-wang" target="_blank"></a>
+                    </div>
                 </div>
             </div>
         </nav>
         <!-- project content -->
-        <section class="project-img">
-            <div class="container">
+        <section class="project-img" style="margin-left: 7em;">
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-12">
-                        <img class="img-responsive" src="image/fittingeasy-title.png" style="width: 100%; margin-top: 12vh">
+                        <img class="img-responsive" src="image/foodex/home-pic.png" style="width: 100%;">
                     </div>
                 </div>
             </div>
         </section>
-        <section class="project-section">
+        <section class="project-section" style="margin-left: 7em;">
             <div class="container">
                 <div id="overview" class="row title-space">
                     <div class="col-md-4 offset-md-4">
@@ -68,38 +90,44 @@
                 <div class="row">
                     <div class="col-md-12">
                         <h4 class="tiny-space2">PROBLEM</h4>
-                        <p class="text-align">Since overseas Chinese students are living far from home and usually facing a lot of pressures from college study, how to have quick and nice meals for everyday becomes a major problem. The obvious solution is to use food delivery services which are quick and convenient. For overseas Chinese students, there are mainly two different types of food delivery services they usually use, but they all have some issues:</p>
+                        <p class="text-align">Overseas Chinese students often live far from home and usually face a lot of pressure from college and studying. This can make finding nutritious meals every day a major problem. The obvious solution is to use food delivery services, which are quick and convenient. For overseas Chinese students, there are two main types of food delivery services they usually use, but they both come with some issues:</p>
                         <p class="text-align">For traditional food delivery apps,</p>
                         <ul class="text-align" style="padding-left: 17px">
-                            <li>The total cost is relatively higher.</li>
-                            <li>It’s hard to communicate with drivers about the navigation.</li>
+                            <li>The total cost can be quite high.</li>
+                            <li>It can be hard for students to communicate with drivers regarding navigation.</li>
                         </ul>
-                        <p class="text-align">For WeChat,</p>
+                        <p class="text-align">For the WeChat platform,</p>
                         <ul class="text-align" style="padding-left: 17px">
-                            <li>The whole service is unprofessional.</li>
+                            <li>It has a critical mass but the whole service is unprofessional.</li>
                         </ul>
-                        <p class="text-align">From the perspective of restaurants, they have some expectations regarding to food delivery services as well, including:</p>
+                        <p class="text-align">From the perspective of restaurants, they have expectations regarding food delivery services as well, including:</p>
                         <ul class="text-align" style="padding-left: 17px">
-                            <li>Improve sales</li>
-                            <li>Facilitate communication with customers</li>
-                            <li>Make the food delivery services more efficient</li>
+                            <li>Improving sales</li>
+                            <li>Facilitating communication with customers</li>
+                            <li>Making the food delivery services more efficient</li>
                         </ul>
+                    </div>
+                </div>
+                <div class="row tiny-space1 problem-style">
+                    <div class="col-md-10 offset-md-1">
+                        <p class="problem-text1">Thus, a design challenge emerged:</p>
+                        <h4 class="problem-text2">How can the affordability and communication of food delivery services be improved while maintaining the profit of restaurants?</h4>
                     </div>
                 </div>
                 <div class="row tiny-space1">
                     <div class="col-md-12">
                         <h4 class="tiny-space2">SOLUTION</h4>
-                        <p class="text-align">FoodEx is a WeChat mini-program to improve affordability and communication of food delivery services for overseas Chinese students while maintaining the profit of restaurants. The main features are:</p>
+                        <p class="text-align">FoodEx is a WeChat Mini Program designed to improve affordability and communication of food delivery services for overseas Chinese students whilst maintaining the profit of restaurants. The main features are:</p>
                         <ul class="text-align" style="padding-left: 17px">
-                            <li>WeChat-based - very familiar to target users and require few set-ups</li>
-                            <li>Foodpool - enable users to group-order food and get different discounts based on head counts</li>
-                            <li>Preset pick-up station and fixed time - enable users to pick up food at preset pick-up lockers</li>
+                            <li>It’s WeChat-based - very familiar to target users and requires few set-up.</li>
+                            <li>Foodpool - enables users to group-order food and get various discounts based on head counts.</li>
+                            <li>Pre-organized pick-up station and fixed time - enables users to pick up food at pre-organised pick-up lockers.</li>
                         </ul>
                         <p class="text-align">From the perspective of restaurants,</p>
                         <ul class="text-align" style="padding-left: 17px">
-                            <li>WeChat-based - more professional, provide a lot of potential customers and easy to advertise</li>
-                            <li>Foodpool - social features facilitate sharing and advertising which improves sales</li>
-                            <li>Preset pick-up station and fixed time - Reduce communication efforts</li>
+                            <li>Again, it’s WeChat-based - more professional, provides a lot of potential customers, and it’s easy to advertise.</li>
+                            <li>Foodpool - social features facilitate sharing and advertising which improves sales.</li>
+                            <li>Pre-organized pick-up station and fixed time – reduces communication efforts.</li>
                         </ul>
                     </div>
                 </div>
@@ -129,9 +157,9 @@
                         <p class="OpenSans-bold">My Role</p>
                     </div>
                     <div class="col-md-10">
-                        <p class="text-align">During the research phase, I conducted several semi-structured interviews about the overall food delivery experience of overseas Chinese students. And I also conducted a competitive analysis to explore the pros and cons of food delivery services. I created the personas as well.</p>
-                        <p class="text-align">During the design phase, I actively contributed in the brainstorming session, and created wireframes and high-fidelity user interfaces of user-end. I also revised the user flow and built an interactive prototype with InVision.</p>
-                        <p class="text-align">Then, I conducted several usability testing sessions to acquire design implications. Based on design implications, I iterated the design to keep improving our solution.</p>
+                        <p class="text-align">During the research phase, I conducted several semi-structured interviews about the overall food delivery experiences of overseas Chinese students. I also conducted a comparitive analysis to explore the pros and cons of food delivery services. I created the personas as well.</p>
+                        <p class="text-align">During the design phase, I actively contributed in the brainstorming session and created wireframes and high-fidelity user interfaces of user-end. I also revised the user flow and built an interactive prototype with InVision.</p>
+                        <p class="text-align">I then conducted several usability testing sessions to acquire design implications. Based on design implications, I iterated the design to continue improving our solution.</p>
                     </div>
                 </div>
                 <div class="row tiny-space1">
@@ -152,43 +180,24 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12">
-                        <p class="text-align">We started our project with focusing on how overseas Chinese students eat for daily life because of the following reasons:</p>
+                        <p class="text-align">We started our project by focusing on how overseas Chinese students eat every day, which we did for the following reasons:</p>
                         <ul class="text-align" style="padding-left: 17px">
-                            <li>They are more likely to deal with trivia on their own</li>
-                            <li>They are likely to face time constraints because of personal and academic activities, and thus would like to spend less energy on cooking related tasks.</li>
-                            <li>They are likely having difficulties in facing a new eating culture</li>
+                            <li>They are more likely to deal with trivia on their own.</li>
+                            <li>They are likely to face time constraints because of personal and academic activities, and thus would like to spend less energy on tasks such as cooking and food preparation.</li>
+                            <li>They are likely having difficulties in facing a new dining culture.</li>
                         </ul>
-                        <p class="text-align">Therefore, we conducted a survey to better understand how they overcome these difficulties</p>
-<!--
-                        <p class="text-align">Through thorough research, we identified three major problems they are facing when shopping in a physical store. And unavailable accessible fitting room is more upsetting compared to the other two problems due to the reasons below.</p>
-                        <ul style="padding-left: 17px">
-                            <li class="text-align"><span style="color:#1f8aef">Other fitting rooms usually don't have enough space for wheelchairs</span>. Thus, if some accessible fitting rooms are being used as a storage, they probably won't be able to try on at all.</li>
-                            <li class="text-align"><span style="color:#1f8aef">Wheelchair users usually take longer to try on than other people</span>, which would give them psychological burden that someone else would be upset about it.</li>
-                            <li class="text-align"><span style="color:#1f8aef">Waiting in line for getting into fitting rooms can be exhausting</span>.</li>
-                        </ul>
--->
-<!--
-                        <p class="text-align">We also determined the following design criteria to guide our design process and final evaluation.</p>
-                         <ul style="padding-left: 17px">
-                            <li class="text-align">Learnability: How easy it is to learn for novice users.</li>
-                            <li class="text-align">Efficiency: How efficient it is for users to perform specific tasks.</li>
-                            <li class="text-align">Error: How many errors users make when performing tasks, and how severe they are.</li>
-                            <li class="text-align">Satisfaction: How satisfied users feel about it.</li>
-                        </ul>
--->
+                        <p class="text-align">Therefore, we conducted a survey to better understand how they overcome these difficulties.</p>
                     </div>
                 </div>
                 <div class="row tiny-space1">
                     <div class="col-md-12">
                         <h4 class="tiny-space2">SURVEY</h4>
                         <p class="text-align">We launched a survey with questions about their common dining options and opinions about them.</p>
-<!--
                         <ul style="padding-left: 17px">
                             <li class="text-align">Nearly <span style="color:#1f8aef;">75%</span> of respondents said they would go out for shopping.</li>
                             <li class="text-align">Comparing online shopping and physical store shopping, <span style="color:#1f8aef;">30.8%</span> prefer shopping online, <span style="color:#1f8aef;">15.4%</span> prefer physical stores, and <span style="color:#1f8aef;">53.8%</span> have no preference between the two.</li>
                             <li class="text-align">When asked whether they would ask for assistance when shopping in stores, <span style="color:#1f8aef;">46.2%</span> respondents said they prefer not asking for any help.</li>
                         </ul>
--->
                     </div>
                     <div class="col-md-6" style="margin-bottom: 1em">
                         <img class="pic-space pic-bottom-space pic-shadow img-responsive" src="image/fittingeasy-survey1.png" style="border-radius: 10px;" width="100%" alt="survey 1">
@@ -197,19 +206,13 @@
                         <img class="pic-space pic-bottom-space pic-shadow img-responsive" src="image/fittingeasy-survey2.png" style="border-radius: 10px;" width="100%" alt="survey 2">
                     </div>
                     <div class="col-md-12">
-                        <p class="text-align">According to our survey results, a lot of students are tired of on-campus dining options and are seeking food alternatives. A popular and convenient solution would be using a food delivery service. However, they complained that they’ve got negative experience with those services including XXXXXXXXX, thus, we believe There’s a design opportunity. So we decided to focus on this area.</p>
-<!--
-                        <ul style="padding-left: 17px">
-                            <li class="text-align"><span style="color: #1f8aef">The final design should not have too much extra help from store assistants but the suitable amount of help like other people receive.</span></li>
-                            <li class="text-align"><span style="color: #1f8aef">Motivate wheelchair users to go shopping in a physical store.</span> Based on our findings, they have this need, however, the poor in-store shopping experience stops them to go.</li>
-                        </ul>
--->
+                        <p class="text-align">According to our survey results, a lot of students are tired of on-campus dining options and are seeking alternatives. A popular and convenient solution would be using a food delivery service. However, they complained that they’ve had negative experiences with these services including Uber Eats, which is why we believe there is a design opportunity and why we decided to focus on this area.</p>
                     </div>
                 </div>
                 <div class="row tiny-space1">
                     <div class="col-md-12">
-                        <h4 class="tiny-space2">COMPETITIVE ANALYSIS / INTERVIEW</h4>
-                        <p class="text-align">Since food delivery services are a common choice among overseas students, we want to investigate what are some popular food delivery solutions/services existed on the market and their using experience. Thus, we conducted several semi-structured interviews with overseas student and for competitive analysis.</p>
+                        <h4 class="tiny-space2">INTERVIEW / COMPARITIVE ANALYSIS</h4>
+                        <p class="text-align">Since food delivery services are a common choice among overseas students, we wanted to investigate the popular food delivery solutions/services existing on the market, and their using experience. We conducted several semi-structured interviews with overseas students for comparitive analysis:</p>
                     </div>
                     <div class="col-md-4 text-center">
                         <img class="pic-space pic-bottom-space pic-shadow" style="border-radius: 10px;" src="image/fittingeasy-oak.png" width="100%" alt="the oak fitting room">
@@ -273,25 +276,16 @@
                 <div class="row tiny-space1">
                     <div class="col-md-12">
                         <h4 class="tiny-space2">SYNTHESIS</h4>
-                        <p class="text-align">After reviewed all the data we collected from the methods above, we summarized our user’s representative concerns of the popular food delivery services.</p>
-                        <p class="text-align">For traditional food delivery apps,</p>
-                        <ul class="text-align" style="padding-left: 17px">
-                            <li>The total cost is relatively higher.</li>
-                            <li>It’s hard to communicate with drivers about the navigation.</li>
-                        </ul>
-                        <p class="text-align">For WeChat,</p>
-                        <ul class="text-align" style="padding-left: 17px">
-                            <li>The whole service is unprofessional.</li>
-                        </ul>
+                        <p class="text-align">After reviewing all the data we collected from the methods above, we summarized our users’ representative concerns about popular food delivery services.</p>
                     </div>
                     <div class="col-md-12 text-center">
-                        <img class="pic-space pic-bottom-space img-responsive" style="border-radius: 10px;" src="image/fittingeasy-synthesis.png" width="100%" alt="synthesis">
+                        <img class="pic-space pic-bottom-space img-responsive" style="border-radius: 10px;" src="image/foodex/synthesis.png" width="100%" alt="synthesis">
                     </div>
                 </div>
                 <div class="row tiny-space1">
                     <div class="col-md-12">
                         <h4 class="tiny-space2">PERSONA</h4>
-                        <p class="text-align">We created three personas that contain typical features of users to keep reminding us of who we are designing for and what they are struggling with.</p>
+                        <p class="text-align">We created three personas that summarized typical features of users to keep reminding us of who we are designing for and what they are struggling with.</p>
                     </div>
                     <div class="col-md-4 text-center">
                         <img class="pic-space pic-bottom-space pic-shadow img-responsive" style="border-radius: 10px;" src="image/foodex/persona1.svg" width="100%" alt="persona 1">
@@ -312,18 +306,6 @@
                         <img class="pic-space pic-bottom-space pic-shadow img-responsive" style="border-radius: 10px;" src="image/foodex/problem-storyboard.svg" width="100%" alt="problem storyboard">
                     </div>
                 </div>
-                
-<!--
-                    <div class="col-md-12 text-center button-section">
-                        <button id="researchBtn" type="button" class="fittingeasy-process" data-toggle="collapse" data-target="#research-process">See Research Process</button>
-                    </div>
--->
-                
-<!--
-                <div id="research-process" class="collapse">
-                    
-                </div>
--->
                 <div class="section-divider"></div>
                 <div id="design" class="row title-space">
                     <div class="col-md-4 offset-md-4">
@@ -334,17 +316,25 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12">
+                        <p class="text-align">Based on our research, we found that although WeChat is not a professional food delivery platform, many overseas Chinese students still prefer to order food from it. We believe there is a design opportunity to build a WeChat Mini-program that incorporates relevant food delivery features while utilizing the advantage of the critical mass of WeChat.</p>
+                    </div>
+                </div>
+                <div class="row tiny-space1">
+                    <div class="col-md-12">
                         <h4 class="tiny-space2">BRAINSTORMING</h4>
-                        <p class="text-align">During this session, we came up with plenty of ideas around our problem space. Then we coded and categorized these ideas by their type, such as body scanning, virtual assistants, tactile displays, and mechanical solutions. Once we structured the data, more patterns emerged. Next, <span style="color: #1f8aef">we combined similar ideas, and compared each idea's feasibility to narrow down to three design concepts</span>.</p>
+                        <p class="text-align">Since we have decided to focus on WeChat, we conducted a brainstorming session to come up with ideas around traditional food delivery apps to tackle these two major problems.</p>
                     </div>
-                    <div class="col-md-4" style="margin-bottom: 1em">
-                        <img class="img-responsive pic-space pic-shadow" src="image/fittingeasy-brainstorming1.jpg" style="border-radius: 10px;" width="100%" alt="brainstorming session: a girl is putting post-its on the white board">
+                    <div class="col-md-4">
+                        <img class="img-responsive pic-space pic-bottom-space pic-shadow" src="image/fittingeasy-brainstorming1.jpg" style="border-radius: 10px;" width="100%" alt="brainstorming session: a girl is putting post-its on the white board">
                     </div>
-                    <div class="col-md-4" style="margin-bottom: 1em">
-                        <img class="img-responsive pic-space pic-shadow" src="image/fittingeasy-barinstorming2.jpg" style="border-radius: 10px;" width="100%" alt="brainstorming session: a half of the entire white board">
+                    <div class="col-md-4">
+                        <img class="img-responsive pic-space pic-bottom-space pic-shadow" src="image/fittingeasy-barinstorming2.jpg" style="border-radius: 10px;" width="100%" alt="brainstorming session: a half of the entire white board">
                     </div>
-                    <div class="col-md-4" style="margin-bottom: 1em">
-                        <img class="img-responsive pic-space pic-shadow" src="image/fittingeasy-brainstorming3.jpg" style="border-radius: 10px;" width="100%" alt="brainstorming session: a half of the entire white board">
+                    <div class="col-md-4">
+                        <img class="img-responsive pic-space pic-bottom-space pic-shadow" src="image/fittingeasy-brainstorming3.jpg" style="border-radius: 10px;" width="100%" alt="brainstorming session: a half of the entire white board">
+                    </div>
+                    <div class="col-md-12">
+                        <p class="text-align">At the end of the brainstorming session, we came up with 20 ideas surrrounding these two issues. After considering their feasibility and discarding some of them, we narrowed it down to three ideas for each issue. We then sketched each idea and delivered them to users for feedback.</p>
                     </div>
                 </div>
 <!--
@@ -662,11 +652,10 @@
                 </div>
             </div>
         </footer>
-        <div class="back2top-btn">
-            <a href="#" class="fal fa-long-arrow-up" style="font-size:2em;"></a>
-        </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<!--        <script src="https://unpkg.com/scrollreveal"></script>-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.7/jquery.fullpage.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/custom.js"></script>
     </body>

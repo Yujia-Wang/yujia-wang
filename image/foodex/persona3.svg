@@ -95,14 +95,14 @@
                 <tspan x="0" y="19">User Needs</tspan>
             </text>
             <g id="Group-Copy-3" transform="translate(0.000000, 44.000000)">
-                <text id="Wants-to-use-WeChat" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Wants to use WeChat for dining in the U.S.</tspan>
+                <text id="To-use-WeChat-for-di" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
+                    <tspan x="12" y="15">To use WeChat for dining in the U.S.</tspan>
                 </text>
                 <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
             </g>
             <g id="Group-Copy-4" transform="translate(0.000000, 73.000000)">
-                <text id="Looking-for-good-res" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Looking for good restaurants of various type</tspan>
+                <text id="Looking-for-a-good-v" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
+                    <tspan x="12" y="15">Looking for a good variety of restaurants</tspan>
                 </text>
                 <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
             </g>
@@ -112,14 +112,14 @@
                 <tspan x="0" y="19">User Frustrations</tspan>
             </text>
             <g id="Group-Copy-3" transform="translate(0.000000, 44.000000)">
-                <text id="Thinks-that-using-We" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Thinks that using WeChat for dining is not convenient in the U.S.</tspan>
+                <text id="Placing-orders-withi" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
+                    <tspan x="12" y="15">Placing orders within a WeChat group is not convenient </tspan>
                 </text>
                 <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
             </g>
             <g id="Group-Copy-4" transform="translate(0.000000, 73.000000)">
-                <text id="Feels-disappointed-a" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Feels disappointed at limited restaurant options in WeChat</tspan>
+                <text id="WeChat-only-offers-l" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
+                    <tspan x="12" y="15">WeChat only offers limited Chinese restaurant options</tspan>
                 </text>
                 <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
             </g>
@@ -129,14 +129,14 @@
                 <tspan x="0" y="19">User Features</tspan>
             </text>
             <g id="Group" transform="translate(0.000000, 44.000000)">
-                <text id="Gets-used-to-all-in-" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Gets used to all-in-one experience of WeChat</tspan>
+                <text id="Got-used-to-an-all-i" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
+                    <tspan x="12" y="15">Got used to an all-in-one experience of WeChat</tspan>
                 </text>
                 <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
             </g>
             <g id="Group-Copy-2" transform="translate(0.000000, 73.000000)">
-                <text id="Curious-about-all-ty" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Curious about all types of food</tspan>
+                <text id="Curious-to-try-all-k" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
+                    <tspan x="12" y="15">Curious to try all kinds of food</tspan>
                 </text>
                 <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
             </g>
