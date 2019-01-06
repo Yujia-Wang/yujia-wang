@@ -1,0 +1,762 @@
+/*main body*/
+.malehead-cls-1{fill:#d3ab84;}
+.malehead-cls-2{fill:#dbb99a;}
+.malehead-cls-3{fill:#231f20;}
+
+.femalehead-cls-1{fill:#ddbe9a;}
+.femalehead-cls-2{fill:#e2c9b5;}
+.femalehead-cls-3{fill:#262626;}
+
+.maleupperbody-cls-1{fill:#dbba9b;}
+.maleupperbody-cls-2{fill:#d3ab84;}
+
+.femaleupperbody-cls-1{fill:#e2c9b5;}
+.femaleupperbody-cls-2{fill:#ddbe9a;}
+
+.maledownbody-cls-1{fill:#d3ab84;}
+.maledownbody-cls-2{fill:#dbb99a;}
+.maledownbody-cls-3{fill:#edebea;}
+.maledownbody-cls-4{fill:#dfdfde;}
+.maledownbody-cls-5{fill:#493829;}
+.maledownbody-cls-6{fill:#644c34;}
+.maledownbody-cls-7{fill:#3f2d1c;}
+.maledownbody-cls-8{fill:#5a4128;}
+
+.femaledownbody-cls-1{fill:#ddbe9a;}
+.femaledownbody-cls-2{fill:#e6ceb4;}
+.femaledownbody-cls-3{fill:#edebea;}
+.femaledownbody-cls-4{fill:#dfdfde;}
+.femaledownbody-cls-5{fill:#212222;}
+.femaledownbody-cls-6{fill:#1d1d1d;}
+.femaledownbody-cls-7{fill:#343436;}
+
+/*clothing category*/
+.tanktop-cls-1{fill:#52c3f0;}
+.tanktop-cls-2{fill:#00aeef;}
+
+.tshirt-cls-1{fill:#f7be79;}
+.tshirt-cls-2{fill:#f7941d;}
+
+.shirt-cls-1{fill:#c2b59b;}
+.shirt-cls-2{fill:#a09580;}
+.shirt-cls-3{fill:#231f20;}
+
+.sweater-cls-1{fill:#fbb040;}
+.sweater-cls-2{fill:#b07b2d;}
+.sweater-cls-3{fill:#8656a3;}
+.sweater-cls-4{fill:#262262;}
+
+.suit-cls-1{fill:#fff;}
+.suit-cls-2{fill:#231f20;}
+.suit-cls-3{fill:#414042;}
+.suit-cls-4{fill:#554b4d;}
+
+.outerwear-cls-1{fill:#fff;}
+.outerwear-cls-2{fill:#231f20;}
+.outerwear-cls-3{fill:#504749;}
+.outerwear-cls-4{fill:#435a85;}
+.outerwear-cls-5{fill:#d1d3d4;}
+.outerwear-cls-6{fill:#414042;}
+
+.dress-cls-1{fill:#fff;}
+.dress-cls-2{fill:#99262a;}
+.dress-cls-3{fill:#6c1b1e;}
+.dress-cls-4{fill:#ddbe9a;}
+.dress-cls-5{fill:#e6ceb4;}
+
+/*neckline shape*/
+.folded-cls-1{fill:#58595b;}
+.folded-cls-2{fill:#414042;}
+
+.vshape-cls-1{fill:#58595b;}
+.vshape-cls-2{fill:#d3ab84;}
+.vshape-cls-3{fill:#dbba9b;}
+
+.round-cls-1{fill:#6d6e71;}
+.round-cls-2{fill:#d3ab84;}
+.round-cls-3{fill:#dbb99a;}
+
+/*scarf, hat, glasses, necktie*/
+.scarf-cls-1{fill:#27aae1;stroke:#27aae1;}
+.scarf-cls-1,.scarf-cls-2{stroke-miterlimit:10;}
+.scarf-cls-2{fill:#1b75bc;stroke:#1b75bc;}
+
+.malehat-cls-1{fill:#181823;}
+.malehat-cls-2{fill:#a7a9ac;}
+
+.femalehat-cls-1{fill:#d77d35;}
+.femalehat-cls-2{fill:#fbb378;}
+.femalehat-cls-3{fill:#bee3d8;}
+.femalehat-cls-4{fill:#f15d5c;}
+.femalehat-cls-5{fill:#48b896;}
+
+.maleglasses-cls-1{fill:#e6e7e8;}
+.maleglasses-cls-2{fill:#323232;}
+
+.femaleglasses-cls-1{fill:#414042;}
+.femaleglasses-cls-2{fill:#323232;}
+
+.necktie-cls-1{fill:#231f20;}
+.necktie-cls-2{fill:#353433;}
+
+/*clothing pattern*/
+.floral-cls-1{fill:rgba(241, 242, 242, 0.9);}
+
+.spotted-cls-1{fill:rgba(241, 242, 242, 0.8);}
+
+.graphics-cls-1{fill:none;}
+.graphics-cls-1,.graphics-cls-2{stroke:rgba(241, 242, 242, 0.9);stroke-linecap:round;stroke-linejoin:round;}
+
+.striped-cls-1{fill:rgba(241, 242, 242, 0.8);}
+
+.plaid-cls-1{fill:rgba(241, 242, 242, 0.3);}
+.plaid-cls-2{fill:none;}
+
+
+
+
+
+/**************/
+/*** gender ***/
+/**************/
+
+.male-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    position: relative;
+}
+
+.female-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+/******************/
+/*** skin color ***/
+/******************/
+
+.skin1-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #ddbe9a;
+    display: inline-block;
+    position: relative;
+}
+
+.skin2-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #d3ab84;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.skin3-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #926b45;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+/*************************/
+/*** clothing category ***/
+/*************************/
+
+.tanktop-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    position: relative;
+}
+
+.tshirt-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.shirt-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.sweater-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.suit-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.outerwear-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.dress-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+/************************/
+/*** clothing pattern ***/
+/************************/
+
+.solid-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    position: relative;
+}
+
+.graphics-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.floral-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.plaid-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.spotted-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.striped-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+/**********************/
+/*** neckline shape ***/
+/**********************/
+
+.folded-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    position: relative;
+}
+
+.round-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.vshape-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+/**********************/
+/*** clothing color ***/
+/**********************/
+
+.black-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #301015;
+    display: inline-block;
+    position: relative;
+}
+
+.white-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fce5f6;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.pink-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #ed71ab;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.blue-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #2db2eb;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.red-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #d42e00;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.cyan-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #00a384;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.green-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #81ba00;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.gray-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #58595b;
+    display: inline-block;
+    position: relative;
+}
+
+.yellow-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fcdd00;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.brown-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #9b6a39;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.purple-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #8f74b4;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.orange-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #f56e14;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.colorful-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-image: linear-gradient(#fce5f6, #fcdd00, #f56e14, #ed71ab, #d42e00, #81ba00, #00a384, #8f74b4, #2db2eb, #9b6a39, #58595b);
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+/*****************/
+/*** accessory ***/
+/*****************/
+
+.hat-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    position: relative;
+}
+
+.glasses-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.scarf-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+.necktie-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+}
+
+/*************/
+/*** other ***/
+/*************/
+
+.img-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.icon-active {
+    border: solid 2px #313843;
+}
+
+.disable {
+    border: solid 2px #f2f2f2;
+    background-color: #f2f2f2;
+    opacity: 0.3;
+}
+
+/****************/
+/*** position ***/
+/****************/
+
+.head-position {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.upperbody-position {
+    position: absolute;
+    top: 43.1%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.downbody-position {
+    position: absolute;
+    top: 80.6%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.tanktop-position {
+    position: absolute;
+    top: 43.1%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.tshirt-position {
+    position: absolute;
+    top: 43.1%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.shirt-position {
+    position: absolute;
+    top: 43.1%;
+    left: 50%;
+    transform: translate(-50.5%, 0);
+}
+
+.sweater-position {
+    position: absolute;
+    top: 43.1%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.suit-position {
+    position: absolute;
+    top: 43.1%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.outerwear-position {
+    position: absolute;
+    top: 40.3%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.dress-position {
+    position: absolute;
+    top: 43.1%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.folded-position {
+    position: absolute;
+    top: 39.5%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.vshape-position {
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.round-position {
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.scarf-position {
+    position: absolute;
+    top: 39.5%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.malehat-position {
+    position: absolute;
+    top: -4.3%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.femalehat-position {
+    position: absolute;
+    top: -1.7%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.maleglasses-position {
+    position: absolute;
+    top: 17.5%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.femaleglasses-position {
+    position: absolute;
+    top: 22.5%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.necktie-position {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+/*************/
+/*** glyph ***/
+/*************/
+
+#glyph {
+    height: 315px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
