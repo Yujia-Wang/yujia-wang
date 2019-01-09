@@ -10,7 +10,7 @@
         <polygon id="path-7" points="0.076437594 0.302785714 35.5301594 0.302785714 35.5301594 2.70676692 0.076437594 2.70676692"></polygon>
     </defs>
     <g id="persona3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#F2F2F2" x="0" y="0" width="595" height="842"></rect>
+        <rect fill="#FFFFFF" x="0" y="0" width="595" height="842"></rect>
         <path d="M0,39 L437,39 C456.882251,39 473,55.117749 473,75 L473,75 C473,94.882251 456.882251,111 437,111 L0,111 L0,39 Z" id="Rectangle" fill="#FFFAB0"></path>
         <path d="M0,131 L501,131 C520.882251,131 537,147.117749 537,167 L537,167 C537,186.882251 520.882251,203 501,203 L0,203 L0,131 Z" id="Rectangle-Copy" fill="#FFFAB0"></path>
         <g id="Group-67" transform="translate(55.000000, 23.000000)">
