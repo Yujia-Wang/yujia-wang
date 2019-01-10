@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="845px" height="393px" viewBox="0 0 845 393" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>business-canvas</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="business-canvas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="845" height="393"></rect>
+        <text id="Customer-Segments" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold" fill="#2C2D32">
+            <tspan x="685" y="21">Customer Segments</tspan>
+        </text>
+        <text id="Customer-Relationshi" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold" fill="#2C2D32">
+            <tspan x="516" y="21">Customer Relationships</tspan>
+        </text>
+        <g id="user-solid" transform="translate(825.000000, 10.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M5,6 C6.578125,6 7.85714286,4.65703125 7.85714286,3 C7.85714286,1.34296875 6.578125,0 5,0 C3.421875,0 2.14285714,1.34296875 2.14285714,3 C2.14285714,4.65703125 3.421875,6 5,6 Z M7,6.75 L6.62723214,6.75 C6.13169643,6.9890625 5.58035714,7.125 5,7.125 C4.41964286,7.125 3.87053571,6.9890625 3.37276786,6.75 L3,6.75 C1.34375,6.75 0,8.1609375 0,9.9 L0,10.875 C0,11.4960938 0.479910714,12 1.07142857,12 L8.92857143,12 C9.52008929,12 10,11.4960938 10,10.875 L10,9.9 C10,8.1609375 8.65625,6.75 7,6.75 Z" id="Shape"></path>
+        </g>
+        <text id="Channels" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold" fill="#2C2D32">
+            <tspan x="516" y="150">Channels</tspan>
+        </text>
+        <text id="Students" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="685" y="48">Students</tspan>
+        </text>
+        <text id="Get-customers" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="516" y="48">Get customers</tspan>
+        </text>
+        <text id="Students-Copy" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="347" y="48">Students</tspan>
+        </text>
+        <text id="Cost-Structure" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold" fill="#2C2D32">
+            <tspan x="10" y="284">Cost Structure</tspan>
+        </text>
+        <text id="Key-Activities" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold" fill="#2C2D32">
+            <tspan x="178" y="21">Key Activities</tspan>
+        </text>
+        <text id="Key-Resources" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold" fill="#2C2D32">
+            <tspan x="178" y="150">Key Resources</tspan>
+        </text>
+        <text id="Key-Partners" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold" fill="#2C2D32">
+            <tspan x="10" y="21">Key Partners</tspan>
+        </text>
+        <text id="Value-Propositions" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold" fill="#2C2D32">
+            <tspan x="347" y="21">Value Propositions</tspan>
+        </text>
+        <text id="Revenue-Streams" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold" fill="#2C2D32">
+            <tspan x="431" y="284">Revenue Streams</tspan>
+        </text>
+        <path d="M169.25,0 L169.25,261.5" id="Line-4" stroke="#2C2D32" stroke-linecap="square"></path>
+        <path d="M0,262 L845,262" id="Line-4" stroke="#2C2D32" stroke-linecap="square"></path>
+        <path d="M169.5,130 L337.5,130" id="Line-4-Copy-4" stroke="#2C2D32" stroke-linecap="square"></path>
+        <path d="M507.5,129.25 L675.5,129.25" id="Line-4-Copy-6" stroke="#2C2D32" stroke-linecap="square"></path>
+        <path d="M338,0 L338,261.5" id="Line-4-Copy" stroke="#2C2D32" stroke-linecap="square"></path>
+        <path d="M422,262.5 L422,393.5" id="Line-4-Copy-5" stroke="#2C2D32" stroke-linecap="square"></path>
+        <path d="M507.25,0 L507.25,261.5" id="Line-4-Copy-2" stroke="#2C2D32" stroke-linecap="square"></path>
+        <path d="M676.25,0 L676.25,261.5" id="Line-4-Copy-3" stroke="#2C2D32" stroke-linecap="square"></path>
+        <g id="heart-solid-(1)" transform="translate(653.000000, 10.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M11.7405458,0.84454343 C10.3518519,-0.403563474 8.28654971,-0.179064588 7.01189084,1.20801782 L6.51267057,1.75055679 L6.01345029,1.20801782 C4.74132554,-0.179064588 2.67348928,-0.403563474 1.28479532,0.84454343 C-0.30662768,2.27706013 -0.390253411,4.8481069 1.03391813,6.40089087 L5.9374269,11.7407572 C6.25419103,12.0855234 6.76861598,12.0855234 7.08538012,11.7407572 L11.9888889,6.40089087 C13.4155945,4.8481069 13.3319688,2.27706013 11.7405458,0.84454343 Z" id="Shape"></path>
+        </g>
+        <g id="gift-solid" transform="translate(483.000000, 10.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M0.8125,11.1428571 C0.8125,11.6169643 1.17558594,12 1.625,12 L5.6875,12 L5.6875,7.71428571 L0.8125,7.71428571 L0.8125,11.1428571 Z M7.3125,12 L11.375,12 C11.8244141,12 12.1875,11.6169643 12.1875,11.1428571 L12.1875,7.71428571 L7.3125,7.71428571 L7.3125,12 Z M12.1875,3.42857143 L11.1185547,3.42857143 C11.2759766,3.10446429 11.375,2.74553571 11.375,2.35714286 C11.375,1.05803571 10.3720703,0 9.140625,0 C8.084375,0 7.40136719,0.570535714 6.52539062,1.82946429 C5.64941406,0.570535714 4.96640625,0 3.91015625,0 C2.67871094,0 1.67578125,1.05803571 1.67578125,2.35714286 C1.67578125,2.74553571 1.77226562,3.10446429 1.93222656,3.42857143 L0.8125,3.42857143 C0.363085938,3.42857143 0,3.81160714 0,4.28571429 L0,6.42857143 C0,6.66428571 0.1828125,6.85714286 0.40625,6.85714286 L12.59375,6.85714286 C12.8171875,6.85714286 13,6.66428571 13,6.42857143 L13,4.28571429 C13,3.81160714 12.6369141,3.42857143 12.1875,3.42857143 Z M3.90761719,3.42857143 C3.34648437,3.42857143 2.89199219,2.94910714 2.89199219,2.35714286 C2.89199219,1.76517857 3.34648437,1.28571429 3.90761719,1.28571429 C4.41289062,1.28571429 4.78613281,1.37410714 6.09375,3.42857143 L3.90761719,3.42857143 Z M9.140625,3.42857143 L6.95449219,3.42857143 C8.25957031,1.37946429 8.62265625,1.28571429 9.140625,1.28571429 C9.70175781,1.28571429 10.15625,1.76517857 10.15625,2.35714286 C10.15625,2.94910714 9.70175781,3.42857143 9.140625,3.42857143 Z" id="Shape"></path>
+        </g>
+        <g id="handshake-alt-solid" transform="translate(139.000000, 10.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M14.3657812,8.56207792 L9.9334375,4.78441558 L9.0428125,5.64155844 C7.8375,6.79792208 6.4659375,6.01246753 6.02359375,5.50441558 C5.225,4.58805195 5.28734375,3.16987013 6.15421875,2.33454545 L8.58265625,0 L6.09484375,0 C5.8425,0 5.60203125,0.105974026 5.42390625,0.292987013 L3.8,1.99480519 L0.475,1.99480519 C0.21375,1.99480519 0,2.21922078 0,2.49350649 L0,8.47480519 C0,8.74909091 0.21375,8.97350649 0.475,8.97350649 L4.34328125,8.97350649 L7.03,11.5262338 C7.8434375,12.2212987 9.03984375,12.0903896 9.701875,11.2363636 L9.7078125,11.2301299 L10.2392187,11.7132468 C10.71125,12.1184416 11.4089062,12.0405195 11.791875,11.5449351 L12.7240625,10.3418182 L12.884375,10.478961 C13.2910937,10.8249351 13.8907812,10.7625974 14.2203125,10.3324675 L14.5023437,9.96779221 C14.8348437,9.53766234 14.7725,8.91116883 14.3657812,8.56207792 Z M18.525,1.99480519 L15.2,1.99480519 L13.5790625,0.292987013 C13.4009375,0.105974026 13.1604687,0 12.908125,0 L10.3579687,0 C10.1204687,0 9.891875,0.0935064935 9.71671875,0.261818182 L6.7984375,3.06701299 C6.79546875,3.07012987 6.7925,3.07636364 6.78953125,3.07948052 C6.29375,3.56883117 6.305625,4.34493506 6.7271875,4.82493506 C7.0121875,5.15220779 7.76625,5.49818182 8.39265625,4.90909091 C8.395625,4.90597403 8.4015625,4.90597403 8.40453125,4.90285714 L9.97796875,3.39116883 L10.7795312,2.6212987 C10.9725,2.4374026 11.2723437,2.44987013 11.4504687,2.65246753 C11.6285937,2.85506494 11.61375,3.16987013 11.4207812,3.35688312 L10.6459375,4.10181818 L14.9684375,7.78597403 C15.330625,8.09454545 15.5473437,8.51844156 15.6275,8.96727273 L18.525,8.96727273 C18.78625,8.96727273 19,8.74285714 19,8.46857143 L19,2.49038961 C19,2.2161039 18.78625,1.99480519 18.525,1.99480519 Z" id="Shape"></path>
+        </g>
+        <g id="truck-solid" transform="translate(650.000000, 139.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M14.625,8.25 L14.25,8.25 L14.25,5.71640625 C14.25,5.41875 14.1304687,5.1328125 13.9195312,4.921875 L11.578125,2.58046875 C11.3671875,2.36953125 11.08125,2.25 10.7835937,2.25 L9.75,2.25 L9.75,1.125 C9.75,0.50390625 9.24609375,0 8.625,0 L1.125,0 C0.50390625,0 0,0.50390625 0,1.125 L0,8.625 C0,9.24609375 0.50390625,9.75 1.125,9.75 L1.5,9.75 C1.5,10.9921875 2.5078125,12 3.75,12 C4.9921875,12 6,10.9921875 6,9.75 L9,9.75 C9,10.9921875 10.0078125,12 11.25,12 C12.4921875,12 13.5,10.9921875 13.5,9.75 L14.625,9.75 C14.83125,9.75 15,9.58125 15,9.375 L15,8.625 C15,8.41875 14.83125,8.25 14.625,8.25 Z M3.75,10.875 C3.12890625,10.875 2.625,10.3710938 2.625,9.75 C2.625,9.12890625 3.12890625,8.625 3.75,8.625 C4.37109375,8.625 4.875,9.12890625 4.875,9.75 C4.875,10.3710938 4.37109375,10.875 3.75,10.875 Z M11.25,10.875 C10.6289062,10.875 10.125,10.3710938 10.125,9.75 C10.125,9.12890625 10.6289062,8.625 11.25,8.625 C11.8710938,8.625 12.375,9.12890625 12.375,9.75 C12.375,10.3710938 11.8710938,10.875 11.25,10.875 Z M13.125,6 L9.75,6 L9.75,3.375 L10.7835938,3.375 L13.125,5.71640625 L13.125,6 Z" id="Shape"></path>
+        </g>
+        <g id="money-bill-wave-solid" transform="translate(818.000000, 273.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M16.4738222,0.601607143 C15.4450702,0.165803571 14.4155226,0 13.3865055,0 C10.1199064,-0.000267857143 6.85357254,1.66982143 3.58697348,1.66982143 C2.76773791,1.66982143 1.94903276,1.56482143 1.12979719,1.30232143 C1.03776911,1.27285714 0.945475819,1.25892857 0.855304212,1.25892857 C0.398876755,1.25892857 0,1.61571429 0,2.11098214 L0,10.6090179 C0,10.9473214 0.19174727,11.2679464 0.499656786,11.398125 C1.52840874,11.8341964 2.55795632,12 3.58697348,12 C6.85357254,12 10.1201716,10.3299107 13.3867707,10.3299107 C14.2060062,10.3299107 15.0247114,10.4349107 15.843947,10.6974107 C15.935975,10.726875 16.0282683,10.7408036 16.1184399,10.7408036 C16.5748674,10.7408036 16.9737441,10.3840179 16.9737441,9.88875 L16.9737441,1.39098214 C16.9734789,1.05241071 16.7817317,0.732053571 16.4738222,0.601607143 Z M1.27301092,2.68446429 C1.80661466,2.81946429 2.36355694,2.88723214 2.93641186,2.92366071 C2.78046802,3.71089286 2.09516381,4.30419643 1.27301092,4.30419643 L1.27301092,2.68446429 Z M1.27301092,10.3183929 L1.27301092,9.03857143 C2.18453978,9.03857143 2.92209048,9.76901786 2.96266771,10.6832143 C2.36514821,10.6347321 1.80661466,10.5141964 1.27301092,10.3183929 Z M8.48673947,8.57142857 C7.31477379,8.57142857 6.3650546,7.41991071 6.3650546,6 C6.3650546,4.57982143 7.315039,3.42857143 8.48673947,3.42857143 C9.65843994,3.42857143 10.6084243,4.57982143 10.6084243,6 C10.6084243,7.42044643 9.65817473,8.57142857 8.48673947,8.57142857 Z M15.700468,9.31553571 C15.235819,9.19794643 14.7534009,9.13205357 14.259844,9.08946429 C14.4155226,8.39089286 14.9891732,7.86053571 15.700468,7.76946429 L15.700468,9.31553571 Z M15.700468,2.99116071 C14.8812324,2.88642857 14.2455226,2.195625 14.2203276,1.3425 C14.7385491,1.400625 15.2305148,1.509375 15.700468,1.68160714 L15.700468,2.99116071 Z" id="Shape"></path>
+        </g>
+        <g id="sitemap-solid" transform="translate(396.000000, 273.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M3,8.25 L0.75,8.25 C0.335859375,8.25 0,8.58585938 0,9 L0,11.25 C0,11.6641406 0.335859375,12 0.75,12 L3,12 C3.41414062,12 3.75,11.6641406 3.75,11.25 L3.75,9 C3.75,8.58585938 3.41414062,8.25 3,8.25 Z M2.4375,6.375 L6.9375,6.375 L6.9375,7.5 L8.0625,7.5 L8.0625,6.375 L12.5625,6.375 L12.5625,7.5 L13.6875,7.5 L13.6875,6.15023437 C13.6875,5.6540625 13.2836719,5.25 12.7872656,5.25 L8.0625,5.25 L8.0625,3.75 L9,3.75 C9.41414062,3.75 9.75,3.41414062 9.75,3 L9.75,0.75 C9.75,0.335859375 9.41414062,0 9,0 L6,0 C5.58585937,0 5.25,0.335859375 5.25,0.75 L5.25,3 C5.25,3.41414062 5.58585938,3.75 6,3.75 L6.9375,3.75 L6.9375,5.25 L2.21273438,5.25 C1.71632812,5.25 1.3125,5.65382812 1.3125,6.15023438 L1.3125,7.5 L2.4375,7.5 L2.4375,6.375 Z M8.625,8.25 L6.375,8.25 C5.96085938,8.25 5.625,8.58585938 5.625,9 L5.625,11.25 C5.625,11.6641406 5.96085938,12 6.375,12 L8.625,12 C9.03914062,12 9.375,11.6641406 9.375,11.25 L9.375,9 C9.375,8.58585938 9.03914062,8.25 8.625,8.25 Z M14.25,8.25 L12,8.25 C11.5858594,8.25 11.25,8.58585938 11.25,9 L11.25,11.25 C11.25,11.6641406 11.5858594,12 12,12 L14.25,12 C14.6641406,12 15,11.6641406 15,11.25 L15,9 C15,8.58585938 14.6641406,8.25 14.25,8.25 Z" id="Shape"></path>
+        </g>
+        <g id="trees-solid" transform="translate(312.000000, 139.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M6.99421875,6.74708171 L7.71210938,6.74708171 C7.92328125,6.74708171 8.11007813,6.63035019 8.19914063,6.44217899 C8.28820313,6.25447471 8.25890625,6.03922179 8.12226563,5.88070039 L6.29109375,3.75875486 L6.96820313,3.75875486 C7.18148438,3.75875486 7.37367188,3.63385214 7.45710938,3.44101167 C7.53960938,3.25120623 7.50070313,3.03035019 7.35773438,2.87883268 L4.77328125,0.136108949 C4.63195313,-0.0144747082 4.36828125,-0.0144747082 4.22671875,0.136108949 L1.64203125,2.87883268 C1.4990625,3.03035019 1.46039063,3.25120623 1.54265625,3.44101167 C1.62632813,3.63385214 1.81851563,3.75875486 2.03179688,3.75875486 L2.70890625,3.75875486 L0.8775,5.88116732 C0.741328125,6.03945525 0.71203125,6.25447471 0.800859375,6.44241245 C0.889921875,6.63035019 1.07648438,6.74708171 1.28789063,6.74708171 L2.00578125,6.74708171 L0.133359375,8.85968872 C-0.007265625,9.01821012 -0.039140625,9.23533074 0.049921875,9.42607004 C0.1378125,9.61400778 0.331171875,9.73540856 0.54234375,9.73540856 L3.75,9.73540856 L3.75,10.3062257 L3.04007813,11.4361868 C2.91539063,11.6845914 3.09679688,11.9768872 3.37546875,11.9768872 L5.62453125,11.9768872 C5.90320313,11.9768872 6.08460938,11.6845914 5.95992188,11.4361868 L5.25,10.3062257 L5.25,9.73540856 L8.45789063,9.73540856 C8.6690625,9.73540856 8.86242188,9.61400778 8.9503125,9.42607004 C9.039375,9.23533074 9.0075,9.01821012 8.866875,8.85968872 L6.99421875,6.74708171 Z M14.8666406,8.85968872 L12.9942188,6.74708171 L13.7121094,6.74708171 C13.9232813,6.74708171 14.1100781,6.63035019 14.1991406,6.44217899 C14.2882031,6.25447471 14.2589063,6.03922179 14.1222656,5.88070039 L12.2910938,3.75875486 L12.9682031,3.75875486 C13.1814844,3.75875486 13.3736719,3.63385214 13.4571094,3.44101167 C13.5396094,3.25120623 13.5007031,3.03035019 13.3577344,2.87883268 L10.7732813,0.136108949 C10.6319531,-0.0144747082 10.3682813,-0.0144747082 10.2267188,0.136108949 L7.99875,2.50015564 C8.25867188,2.85898833 8.32617188,3.32428016 8.14734375,3.73657588 C8.05359375,3.95299611 7.9040625,4.13416342 7.719375,4.26607004 L8.69296875,5.39416342 C9.01945313,5.77354086 9.09234375,6.31003891 8.8790625,6.76038911 C8.78085938,6.96793774 8.63390625,7.13953307 8.45460938,7.26420233 L9.43007813,8.36498054 C9.6328125,8.59377432 9.74273438,8.69533074 9.75,8.98809339 L9.75,10.3059922 L9.04007813,11.4359533 C8.91539063,11.684358 9.09679688,11.9766537 9.37546875,11.9766537 L11.6245313,11.9766537 C11.9032031,11.9766537 12.0846094,11.684358 11.9599219,11.4359533 L11.25,10.3062257 L11.25,9.73540856 L14.4578906,9.73540856 C14.6690625,9.73540856 14.8624219,9.61400778 14.9503125,9.42607004 C15.0391406,9.23533074 15.0072656,9.01821012 14.8666406,8.85968872 Z" id="Shape"></path>
+        </g>
+        <g id="clipboard-list-check-solid" transform="translate(318.000000, 10.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M7.875,1.5 L6,1.5 C6,0.67265625 5.32734375,0 4.5,0 C3.67265625,0 3,0.67265625 3,1.5 L1.125,1.5 C0.50390625,1.5 0,2.00390625 0,2.625 L0,10.875 C0,11.4960937 0.50390625,12 1.125,12 L7.875,12 C8.49609375,12 9,11.4960937 9,10.875 L9,2.625 C9,2.00390625 8.49609375,1.5 7.875,1.5 Z M4.5,0.9375 C4.81171875,0.9375 5.0625,1.18828125 5.0625,1.5 C5.0625,1.81171875 4.81171875,2.0625 4.5,2.0625 C4.18828125,2.0625 3.9375,1.81171875 3.9375,1.5 C3.9375,1.18828125 4.18828125,0.9375 4.5,0.9375 Z M1.5375,4.9078125 L1.83515625,4.6125 C1.884375,4.56328125 1.9640625,4.56328125 2.01328125,4.6125 L2.49609375,5.1 L3.61171875,3.99375 C3.6609375,3.94453125 3.740625,3.94453125 3.78984375,3.99375 L4.08515625,4.29140625 C4.134375,4.340625 4.134375,4.4203125 4.08515625,4.46953125 L2.58046875,5.96015625 C2.53125,6.009375 2.4515625,6.009375 2.40234375,5.96015625 L1.5375,5.0859375 C1.48828125,5.03671875 1.48828125,4.95703125 1.5375,4.9078125 Z M2.25,9.1875 C1.93828125,9.1875 1.6875,8.93671875 1.6875,8.625 C1.6875,8.31328125 1.93828125,8.0625 2.25,8.0625 C2.56171875,8.0625 2.8125,8.31328125 2.8125,8.625 C2.8125,8.93671875 2.56171875,9.1875 2.25,9.1875 Z M7.5,8.8125 C7.5,8.915625 7.415625,9 7.3125,9 L3.9375,9 C3.834375,9 3.75,8.915625 3.75,8.8125 L3.75,8.4375 C3.75,8.334375 3.834375,8.25 3.9375,8.25 L7.3125,8.25 C7.415625,8.25 7.5,8.334375 7.5,8.4375 L7.5,8.8125 Z M7.5,5.8125 C7.5,5.915625 7.39921875,6 7.275,6 L3.61171875,6 L4.36875,5.25 L7.275,5.25 C7.39921875,5.25 7.5,5.334375 7.5,5.4375 L7.5,5.8125 Z" id="Shape"></path>
+        </g>
+        <text id="WeChat-Mini-Program" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="516" y="177">WeChat Mini Program</tspan>
+        </text>
+        <text id="WeChat" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="10" y="48">WeChat</tspan>
+        </text>
+        <text id="Tech" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="178" y="177">Tech</tspan>
+        </text>
+        <text id="Production" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="178" y="48">Production</tspan>
+        </text>
+        <text id="Fixed-Cost" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="10" y="311">Fixed Cost</tspan>
+        </text>
+        <text id="Variable-Cost" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="149" y="311">Variable Cost</tspan>
+        </text>
+        <text id="Infrastructural" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="253" y="177">Infrastructural</tspan>
+        </text>
+        <text id="Financial" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="178" y="235">Financial</tspan>
+        </text>
+        <text id="Restaurants" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="685" y="154">Restaurants</tspan>
+        </text>
+        <text id="Restaurants-Copy" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="347" y="138">Restaurants</tspan>
+        </text>
+        <text id="Restaurant-Revenue" font-family="OpenSans-SemiBold, Open Sans" font-size="8" font-weight="500" fill="#2C2D32">
+            <tspan x="431" y="311">Restaurant Revenue</tspan>
+        </text>
+        <g id="Group" transform="translate(695.000000, 55.000000)" fill="#2C2D32">
+            <text id="Overseas-Chinese-stu" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Overseas Chinese students</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-30" transform="translate(526.000000, 55.000000)" fill="#2C2D32">
+            <text id="Promotions-&amp;-discoun" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Promotions &amp; discounts</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-31" transform="translate(526.000000, 71.000000)" fill="#2C2D32">
+            <text id="Limited-time-to-have" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Limited time to have premium </tspan>
+                <tspan x="9" y="20">privilege</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-18" transform="translate(357.000000, 55.000000)" fill="#2C2D32">
+            <text id="Save-money" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Save money</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-19" transform="translate(357.000000, 71.000000)" fill="#2C2D32">
+            <text id="Save-time" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Save time</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-21" transform="translate(357.000000, 103.000000)" fill="#2C2D32">
+            <text id="More-dining-options" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">More dining options</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-20" transform="translate(357.000000, 87.000000)" fill="#2C2D32">
+            <text id="More-high-quality-fo" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">More high-quality food</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-7" transform="translate(188.000000, 184.000000)" fill="#2C2D32">
+            <text id="Developers" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Developers</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-27" transform="translate(188.000000, 55.000000)" fill="#2C2D32">
+            <text id="Advertise-brand" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Advertise brand</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-28" transform="translate(188.000000, 71.000000)" fill="#2C2D32">
+            <text id="Marketing-strategies" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Marketing strategies for app</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-29" transform="translate(188.000000, 87.000000)" fill="#2C2D32">
+            <text id="Analyzing-data-&amp;-imp" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Analyzing data &amp; improving</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-12" transform="translate(20.000000, 318.000000)" fill="#2C2D32">
+            <text id="Office-space-rent" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Office space rent</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-16" transform="translate(158.000000, 334.000000)" fill="#2C2D32">
+            <text id="Contract-employees" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Contract employees</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-13" transform="translate(20.000000, 334.000000)" fill="#2C2D32">
+            <text id="Salaries" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Salaries</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-14" transform="translate(20.000000, 350.000000)" fill="#2C2D32">
+            <text id="Food-locker-maintena" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Food locker maintenance</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-17" transform="translate(20.000000, 366.000000)" fill="#2C2D32">
+            <text id="App-maintenance" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">App maintenance</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-15" transform="translate(158.000000, 318.000000)" fill="#2C2D32">
+            <text id="Advertising-expense" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Advertising expense</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-10" transform="translate(263.000000, 184.000000)" fill="#2C2D32">
+            <text id="Office-space" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Office space</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-11" transform="translate(263.000000, 200.000000)" fill="#2C2D32">
+            <text id="Computers" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Computers</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-8" transform="translate(188.000000, 200.000000)" fill="#2C2D32">
+            <text id="Designers" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Designers</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-9" transform="translate(188.000000, 242.000000)" fill="#2C2D32">
+            <text id="Accounting" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Accounting</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy" transform="translate(695.000000, 71.000000)" fill="#2C2D32">
+            <text id="Tired-of-on-campus-d" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Tired of on-campus dining options</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-2" transform="translate(695.000000, 87.000000)" fill="#2C2D32">
+            <text id="Seek-for-more-dining" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Seek for more dining options</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-3" transform="translate(695.000000, 103.000000)" fill="#2C2D32">
+            <text id="Don’t-have-time-to-c" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Don’t have time to cook</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-4" transform="translate(695.000000, 119.000000)" fill="#2C2D32">
+            <text id="Don’t-know-how-to-co" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Don’t know how to cook</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-5" transform="translate(695.000000, 161.000000)" fill="#2C2D32">
+            <text id="Improve-sales" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Improve sales</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-25" transform="translate(441.000000, 318.000000)" fill="#2C2D32">
+            <text id="Membership" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Membership</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-26" transform="translate(441.000000, 334.000000)" fill="#2C2D32">
+            <text id="Advertisment" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Advertisment</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-22" transform="translate(357.000000, 145.000000)" fill="#2C2D32">
+            <text id="Improve-sales" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Improve sales</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-23" transform="translate(357.000000, 161.000000)" fill="#2C2D32">
+            <text id="More-efficient-food" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">More efficient food delivery</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-24" transform="translate(357.000000, 177.000000)" fill="#2C2D32">
+            <text id="Advertising-effect" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Advertising effect</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+        <g id="Group-Copy-6" transform="translate(695.000000, 177.000000)" fill="#2C2D32">
+            <text id="Expect-more-efficien" font-family="OpenSans-Regular, Open Sans" font-size="8" font-weight="normal">
+                <tspan x="9" y="9">Expect more efficient food delivery</tspan>
+            </text>
+            <circle id="Oval" cx="2" cy="6" r="2"></circle>
+        </g>
+    </g>
+</svg>
