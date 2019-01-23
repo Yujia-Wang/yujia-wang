@@ -84,6 +84,31 @@ $(document).ready(function() {
         }); 
     }
     
+    /*****************/
+    /*** highlight ***/
+    /*****************/
+
+    $(window).on("scroll", function() {
+        highlight();
+    });
+    
+    function highlight() {
+        var scroll = $(window).scrollTop();
+        var height = $(window).height();
+        
+        $(".highlight").each(function() {
+            var pos = $(this).offset().top;
+            var bounds = pos + $(this).outerHeight();
+            
+            if (scroll + height >= bounds) {
+                $(this).addClass("highlight-active");
+            }
+            else {
+                $(this).removeClass("highlight-active");
+            }
+        });
+    }
+    
     
 
 

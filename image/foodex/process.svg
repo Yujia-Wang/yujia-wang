@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1551px" height="477px" viewBox="0 0 1551 477" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>A4</title>
+    <title>process</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="A4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <circle id="Oval" fill-opacity="0.3" fill="#FC5759" cx="58" cy="244" r="35"></circle>
-        <circle id="Oval-Copy" fill-opacity="0.3" fill="#FC5759" cx="123" cy="244" r="54"></circle>
-        <circle id="Oval-Copy-2" fill-opacity="0.3" fill="#FC5759" cx="181" cy="244" r="54"></circle>
-        <circle id="Oval-Copy-3" fill-opacity="0.3" fill="#FC5759" cx="241" cy="244" r="54"></circle>
-        <circle id="Oval-Copy-4" fill-opacity="0.3" fill="#FC5759" cx="295" cy="244" r="35"></circle>
-        <circle id="Oval-Copy-5" fill-opacity="0.3" fill="#FC5759" cx="392" cy="244" r="95"></circle>
-        <circle id="Oval-Copy-6" fill-opacity="0.3" fill="#FC5759" cx="487" cy="244" r="35"></circle>
-        <circle id="Oval-Copy-7" fill-opacity="0.3" fill="#FC5759" cx="570" cy="244" r="76"></circle>
-        <circle id="Oval-Copy-8" fill-opacity="0.3" fill="#FC5759" cx="673" cy="244" r="119"></circle>
-        <circle id="Oval-Copy-9" fill-opacity="0.3" fill="#FC5759" cx="791" cy="244" r="49"></circle>
-        <circle id="Oval-Copy-10" fill-opacity="0.3" fill="#FC5759" cx="891" cy="244" r="95"></circle>
-        <circle id="Oval-Copy-12" fill-opacity="0.3" fill="#FC5759" cx="982" cy="244" r="64"></circle>
-        <circle id="Oval-Copy-13" fill-opacity="0.3" fill="#FC5759" cx="1098" cy="244" r="115"></circle>
-        <circle id="Oval-Copy-14" fill-opacity="0.3" fill="#FC5759" cx="1241" cy="244" r="65"></circle>
-        <circle id="Oval-Copy-17" fill-opacity="0.3" fill="#FC5759" cx="1395" cy="244" r="98"></circle>
+    <defs>
+        <filter x="-2.0%" y="-12.6%" width="104.1%" height="125.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="process" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" filter="url(#filter-1)" transform="translate(23.000000, 125.000000)" fill="#FC5759" fill-opacity="0.3">
+            <circle id="Oval" cx="35" cy="119" r="35"></circle>
+            <circle id="Oval-Copy" cx="100" cy="119" r="54"></circle>
+            <circle id="Oval-Copy-2" cx="158" cy="119" r="54"></circle>
+            <circle id="Oval-Copy-3" cx="218" cy="119" r="54"></circle>
+            <circle id="Oval-Copy-4" cx="272" cy="119" r="35"></circle>
+            <circle id="Oval-Copy-5" cx="369" cy="119" r="95"></circle>
+            <circle id="Oval-Copy-6" cx="464" cy="119" r="35"></circle>
+            <circle id="Oval-Copy-7" cx="547" cy="119" r="76"></circle>
+            <circle id="Oval-Copy-8" cx="650" cy="119" r="119"></circle>
+            <circle id="Oval-Copy-9" cx="768" cy="119" r="49"></circle>
+            <circle id="Oval-Copy-10" cx="868" cy="119" r="95"></circle>
+            <circle id="Oval-Copy-12" cx="959" cy="119" r="64"></circle>
+            <circle id="Oval-Copy-13" cx="1075" cy="119" r="115"></circle>
+            <circle id="Oval-Copy-14" cx="1218" cy="119" r="65"></circle>
+            <circle id="Oval-Copy-17" cx="1372" cy="119" r="98"></circle>
+        </g>
         <path d="M1377.186,221 L1470.5,221 C1482.92641,221 1493,231.073593 1493,243.5 L1493,244.5 C1493,256.926407 1482.92641,267 1470.5,267 L45.5,267 C33.0735931,267 23,256.926407 23,244.5 L23,243.5 C23,231.073593 33.0735931,221 45.5,221 L1121,221 L1077.5,182.924569 C1094.60411,181.930127 1103.15617,181.432906 1103.15617,181.432906 C1126.51414,132.67352 1176.32463,99 1234,99 C1306.25429,99 1366.16509,151.848795 1377.186,221 Z M1121.30042,221 L1346.69958,221 C1336.04437,168.508473 1289.63603,129 1234,129 C1178.36397,129 1131.95563,168.508473 1121.30042,221 Z" id="Combined-Shape" fill="#FC5759"></path>
         <text id="RESEARCH" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
             <tspan x="144.409668" y="251">RESEARCH</tspan>

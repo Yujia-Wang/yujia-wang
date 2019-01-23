@@ -239,19 +239,6 @@ p {
 
 
 
-/*
-.footer-icons {
-    font-size: 1.3em;
-}
-
-.footer-icons a {
-    margin-left: 1em;
-}
-*/
-
-
-
-
 
 /**************************/
 /*** project main frame ***/
@@ -300,7 +287,8 @@ p {
 
 .section-divider {
 	margin-top: 5em;
-	border-bottom: solid 1px #313843;
+	height: 2px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #000000 50%, rgba(0, 0, 0, 0));
 }
 
 .title-pic {
@@ -394,3 +382,37 @@ p {
 .contact-icons {font-size: 2.5em;}
 
 
+
+.special-shadow {
+    -webkit-filter: drop-shadow(0 5px 8px #d8d8d8);
+    filter:         drop-shadow(0 5px 8px #d8d8d8);
+}
+
+
+.highlight {
+    background-image: linear-gradient(to right, transparent 50%, transparent 50%);
+    background-size: 200%;
+    background-position: 0 0;
+    transition: 0.5s ease-in-out;
+}
+
+.highlight-active {
+    background-position: -100% 0;
+}
+
+.highlight-foodex {
+    background-image: linear-gradient(to right, transparent 50%, rgba(252, 87, 89, 0.3) 50%);
+}
+
+.highlight-fittingeasy {
+    background-image: linear-gradient(to right, transparent 50%, rgba(71, 159, 241, 0.3) 50%);
+}
+
+
+
+
+
+.solution-video {
+    border-radius: 15px;
+    box-shadow: 0 5px 20px 0 #d8d8d8;
+}

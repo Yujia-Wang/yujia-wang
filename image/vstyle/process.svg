@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1551px" height="477px" viewBox="0 0 1551 477" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>process</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.0%" y="-12.6%" width="104.1%" height="125.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="process" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1551" height="477"></rect>
+        <g id="Group-2" filter="url(#filter-1)" transform="translate(23.000000, 125.000000)" fill="#000000" fill-opacity="0.3">
+            <circle id="Oval" cx="63" cy="119" r="63"></circle>
+            <circle id="Oval-Copy" cx="166" cy="119" r="75"></circle>
+            <circle id="Oval-Copy-7" cx="340" cy="120" r="119"></circle>
+            <circle id="Oval-Copy-8" cx="551" cy="119" r="119"></circle>
+            <circle id="Oval-Copy-10" cx="735" cy="120" r="88"></circle>
+            <circle id="Oval-Copy-11" cx="844" cy="120" r="51"></circle>
+            <circle id="Oval-Copy-12" cx="988" cy="119" r="119"></circle>
+            <circle id="Oval-Copy-13" cx="1090" cy="118" r="77"></circle>
+            <circle id="Oval-Copy-14" cx="1256" cy="119" r="119"></circle>
+            <circle id="Oval-Copy-17" cx="1395" cy="119" r="75"></circle>
+        </g>
+        <text id="Data-Exploration" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
+            <tspan x="90" y="58">Data Exploration</tspan>
+        </text>
+        <text id="User-Analysis" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
+            <tspan x="193" y="438">User Analysis</tspan>
+        </text>
+        <text id="Idea-Synthesising" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
+            <tspan x="578" y="437">Idea Synthesising</tspan>
+        </text>
+        <text id="Idea-Visualizing" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
+            <tspan x="762" y="77">Idea Visualizing</tspan>
+        </text>
+        <text id="Prototyping" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
+            <tspan x="1015" y="71">Prototyping</tspan>
+        </text>
+        <text id="Expert-Feedback" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
+            <tspan x="1117" y="376">Expert Feedback</tspan>
+        </text>
+        <text id="Development" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
+            <tspan x="1283" y="69">Development</tspan>
+        </text>
+        <text id="Usability-Testing" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
+            <tspan x="1422" y="382">Usability Testing</tspan>
+        </text>
+        <text id="Brainstorming" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
+            <tspan x="367" y="51">Brainstorming</tspan>
+        </text>
+        <text id="User-Feedback" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
+            <tspan x="871" y="395">User Feedback</tspan>
+        </text>
+        <g id="Group" transform="translate(82.000000, 177.000000)">
+            <circle id="Oval-2" stroke="#000000" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-3" fill="#000000" cx="4" cy="4" r="2"></circle>
+        </g>
+        <g id="Group-Copy" transform="translate(185.000000, 315.000000)">
+            <circle id="Oval-2" stroke="#000000" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-3" fill="#000000" cx="4" cy="4" r="2"></circle>
+        </g>
+        <g id="Group-Copy-6" transform="translate(359.000000, 121.000000)">
+            <circle id="Oval-2" stroke="#000000" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-3" fill="#000000" cx="4" cy="4" r="2"></circle>
+        </g>
+        <g id="Group-Copy-9" transform="translate(754.000000, 153.000000)">
+            <circle id="Oval-2" stroke="#000000" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-3" fill="#000000" cx="4" cy="4" r="2"></circle>
+        </g>
+        <g id="Group-Copy-11" transform="translate(1007.000000, 121.000000)">
+            <circle id="Oval-2" stroke="#000000" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-3" fill="#000000" cx="4" cy="4" r="2"></circle>
+        </g>
+        <g id="Group-Copy-13" transform="translate(1275.000000, 121.000000)">
+            <circle id="Oval-2" stroke="#000000" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-3" fill="#000000" cx="4" cy="4" r="2"></circle>
+        </g>
+        <g id="Group-Copy-16" transform="translate(1414.000000, 315.000000)">
+            <circle id="Oval-2" stroke="#000000" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-3" fill="#000000" cx="4" cy="4" r="2"></circle>
+        </g>
+        <g id="Group-Copy-7" transform="translate(570.000000, 359.000000)">
+            <circle id="Oval-2" stroke="#000000" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-3" fill="#000000" cx="4" cy="4" r="2"></circle>
+        </g>
+        <g id="Group-Copy-10" transform="translate(863.000000, 292.000000)">
+            <circle id="Oval-2" stroke="#000000" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-3" fill="#000000" cx="4" cy="4" r="2"></circle>
+        </g>
+        <g id="Group-Copy-12" transform="translate(1109.000000, 316.000000)">
+            <circle id="Oval-2" stroke="#000000" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-3" fill="#000000" cx="4" cy="4" r="2"></circle>
+        </g>
+        <path d="M86.25,176.5 L86.25,47.5" id="Line-5" stroke="#000000" stroke-linecap="round"></path>
+        <path d="M189.25,441.5 L189.25,323.5" id="Line-5-Copy" stroke="#000000" stroke-linecap="round"></path>
+        <path d="M574.25,440.5 L574.25,367.5" id="Line-5-Copy-7" stroke="#000000" stroke-linecap="round"></path>
+        <path d="M867.208333,398.5 L867.208333,300.5" id="Line-5-Copy-11" stroke="#000000" stroke-linecap="round"></path>
+        <path d="M1113.20139,380.5 L1113.20139,324.5" id="Line-5-Copy-13" stroke="#000000" stroke-linecap="round"></path>
+        <path d="M1418.20004,384.5 L1418.20004,323.5" id="Line-5-Copy-17" stroke="#000000" stroke-linecap="round"></path>
+        <path d="M363.25,120.5 L363.25,41.5" id="Line-5-Copy-8" stroke="#000000" stroke-linecap="round"></path>
+        <path d="M758.208333,152.5 L758.208333,67.5" id="Line-5-Copy-10" stroke="#000000" stroke-linecap="round"></path>
+        <path d="M1011.20023,120.5 L1011.20023,61.5" id="Line-5-Copy-12" stroke="#000000" stroke-linecap="round"></path>
+        <path d="M1279.20001,120.5 L1279.20001,57.5" id="Line-5-Copy-14" stroke="#000000" stroke-linecap="round"></path>
+        <path d="M867.729711,261.151046 C868.566405,255.555633 869,249.828452 869,244 C869,180.487254 817.512746,129 754,129 C698.363968,129 651.955634,168.508473 641.300417,221 L641,221 L597.5,182.924569 C614.604112,181.930127 623.156169,181.432906 623.156169,181.432906 C646.514138,132.67352 696.324633,99 754,99 C834.081289,99 899,163.918711 899,244 C899,251.774461 898.388145,259.406016 897.209962,266.849137 C897.209962,266.849137 887.383211,264.949773 867.72971,261.151046 Z" id="Combined-Shape" fill="#000000"></path>
+        <path d="M1377.186,221 L1470.5,221 C1482.92641,221 1493,231.073593 1493,243.5 L1493,244.5 C1493,256.926407 1482.92641,267 1470.5,267 L45.5,267 C33.0735931,267 23,256.926407 23,244.5 L23,243.5 C23,231.073593 33.0735931,221 45.5,221 L1121,221 L1077.5,182.924569 C1094.60411,181.930127 1103.15617,181.432906 1103.15617,181.432906 C1126.51414,132.67352 1176.32463,99 1234,99 C1306.25429,99 1366.16509,151.848795 1377.186,221 Z M1121.30042,221 L1346.69958,221 C1336.04437,168.508473 1289.63603,129 1234,129 C1178.36397,129 1131.95563,168.508473 1121.30042,221 Z" id="Combined-Shape" fill="#000000"></path>
+        <text id="RESEARCH" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="133.409668" y="251">RESEARCH</tspan>
+        </text>
+        <text id="DESIGN" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="546.147461" y="251">DESIGN</tspan>
+        </text>
+        <text id="PROTOTYPE" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="1056.29346" y="251">PROTOTYPE</tspan>
+        </text>
+        <text id="EVALUATION" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="1304.40527" y="251">EVALUATION</tspan>
+        </text>
+        <text id="ITERATION" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="1190.09326" y="124">ITERATION</tspan>
+        </text>
+        <text id="ITERATION-Copy" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="713.093262" y="124">ITERATION</tspan>
+        </text>
+    </g>
+</svg>
