@@ -295,8 +295,6 @@ p {
     padding-bottom: 5em;
 }
 
-
-
 .pic-space {
 	margin-top: 1em;
 }
@@ -308,8 +306,6 @@ p {
 .pic-bottom-space {
 	margin-bottom: 1em;
 }
-
-
 
 .problem-style {
     background-color: #f2f2f2;
@@ -370,24 +366,10 @@ p {
     transform: scale(1.3);
 }
 
-
-/*** about ***/
-
-.about {
-	position: relative;
-	padding-top: 8em;
-	padding-bottom: 8em;
-}
-
-.contact-icons {font-size: 2.5em;}
-
-
-
 .special-shadow {
     -webkit-filter: drop-shadow(0 5px 8px #d8d8d8);
     filter:         drop-shadow(0 5px 8px #d8d8d8);
 }
-
 
 .highlight {
     background-image: linear-gradient(to right, transparent 50%, transparent 50%);
@@ -408,11 +390,54 @@ p {
     background-image: linear-gradient(to right, transparent 50%, rgba(71, 159, 241, 0.3) 50%);
 }
 
-
-
-
-
-.solution-video {
-    border-radius: 15px;
+.video-feature {
+    width: 100%;
+    border-radius: 5px;
     box-shadow: 0 5px 20px 0 #d8d8d8;
+    padding-top: .5em;
+    padding-bottom: .5em;
 }
+
+.btnWrapper {
+    width: 15em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.vstyleBtn {
+    width: 100%;
+    height: 2.5em;
+    background-color: #fff;
+    border: solid 1px #000;
+    border-radius: 30px;
+    font-weight: 700;
+    color: #000;
+    box-shadow: 0 10px 50px 0 rgba(0, 0, 0, 0.2);
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+}
+
+.vstyleBtn:hover {
+    transform: scale(1.1);
+}
+
+.vstyleBtn:focus {
+    outline: 0;
+}
+
+
+
+/*** about ***/
+
+.about {
+	position: relative;
+	padding-top: 8em;
+	padding-bottom: 8em;
+}
+
+.contact-icons {font-size: 2.5em;}
+
+
+
