@@ -390,6 +390,10 @@ p {
     background-image: linear-gradient(to right, transparent 50%, rgba(71, 159, 241, 0.3) 50%);
 }
 
+.highlight-vstyle {
+    background-image: linear-gradient(to right, transparent 50%, rgba(0, 0, 0, 0.1) 50%);
+}
+
 .video-feature {
     width: 100%;
     border-radius: 5px;
