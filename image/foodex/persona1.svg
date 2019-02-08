@@ -64,90 +64,90 @@
         <text id="Lei-Li" font-family="OpenSans-Bold, Open Sans" font-size="36" font-weight="bold" fill="#2C2D32">
             <tspan x="219" y="90">Lei Li</tspan>
         </text>
-        <text id="Newcomer" font-family="OpenSans-Bold, Open Sans" font-size="24" font-weight="bold" fill="#2C2D32">
-            <tspan x="219" y="176">Newcomer</tspan>
+        <text id="Newcomer" font-family="OpenSans-Bold, Open Sans" font-size="26" font-weight="bold" fill="#2C2D32">
+            <tspan x="219" y="177">Newcomer</tspan>
         </text>
-        <g id="Group-5" transform="translate(219.000000, 242.000000)" fill="#2C2D32">
-            <text id="INFO" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold">
-                <tspan x="0" y="19">INFO</tspan>
+        <g id="Group-5" transform="translate(219.000000, 233.000000)" fill="#2C2D32">
+            <text id="INFO" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold">
+                <tspan x="0" y="24">INFO</tspan>
             </text>
-            <text id="Age:-24" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                <tspan x="0" y="59">Age: 24</tspan>
+            <text id="Age:-24" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                <tspan x="0" y="64">Age: 24</tspan>
             </text>
-            <text id="City:-Atlanta" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                <tspan x="148" y="59">City: Atlanta</tspan>
+            <text id="City:-Atlanta" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                <tspan x="148" y="64">City: Atlanta</tspan>
             </text>
-            <text id="Major:-Computer-Scie" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                <tspan x="0" y="88">Major: Computer Science</tspan>
+            <text id="Major:-Computer-Scie" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                <tspan x="0" y="93">Major: Computer Science</tspan>
             </text>
         </g>
-        <g id="Group-2" transform="translate(47.000000, 530.000000)" fill="#2C2D32">
-            <text id="User-Needs" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold">
-                <tspan x="0" y="19">User Needs</tspan>
+        <g id="Group-2" transform="translate(47.000000, 523.000000)" fill="#2C2D32">
+            <text id="User-Needs" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold">
+                <tspan x="0" y="24">User Needs</tspan>
             </text>
-            <g id="Group-Copy-3" transform="translate(0.000000, 44.000000)">
-                <text id="Looking-for-an-alter" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Looking for an alternative meal solution</tspan>
+            <g id="Group-Copy-3" transform="translate(0.000000, 45.000000)">
+                <text id="Looking-for-an-alter" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">Looking for an alternative meal solution</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
-            <g id="Group-Copy-4" transform="translate(0.000000, 73.000000)">
-                <text id="Needs-straightforwar" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Needs straightforward illustration of food</tspan>
+            <g id="Group-Copy-4" transform="translate(0.000000, 74.000000)">
+                <text id="Needs-straightforwar" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">Needs straightforward illustration of food</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
-            <g id="Group-Copy-5" transform="translate(0.000000, 102.000000)">
-                <text id="Wants-better-communi" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Wants better communication with delivery drivers</tspan>
+            <g id="Group-Copy-5" transform="translate(0.000000, 103.000000)">
+                <text id="Wants-better-communi" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">Wants better communication with delivery drivers</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
         </g>
-        <g id="Group-2-Copy" transform="translate(47.000000, 681.000000)" fill="#2C2D32">
-            <text id="User-Frustrations" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold">
-                <tspan x="0" y="19">User Frustrations</tspan>
+        <g id="Group-2-Copy" transform="translate(47.000000, 675.000000)" fill="#2C2D32">
+            <text id="User-Frustrations" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold">
+                <tspan x="0" y="24">User Frustrations</tspan>
             </text>
-            <g id="Group-Copy-3" transform="translate(0.000000, 44.000000)">
-                <text id="There-are-few-choice" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">There are few choices on campus</tspan>
+            <g id="Group-Copy-3" transform="translate(0.000000, 45.000000)">
+                <text id="There-are-few-choice" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">There are few choices on campus</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
-            <g id="Group-Copy-4" transform="translate(0.000000, 73.000000)">
-                <text id="Unable-to-understand" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Unable to understand menus</tspan>
+            <g id="Group-Copy-4" transform="translate(0.000000, 74.000000)">
+                <text id="Unable-to-understand" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">Unable to understand menus</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
-            <g id="Group-Copy-5" transform="translate(0.000000, 102.000000)">
-                <text id="Struggles-to-communi" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Struggles to communicate well</tspan>
+            <g id="Group-Copy-5" transform="translate(0.000000, 103.000000)">
+                <text id="Struggles-to-communi" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">Struggles to communicate well</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
         </g>
-        <g id="Group-4" transform="translate(47.000000, 379.000000)" fill="#2C2D32">
-            <text id="User-Features" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold">
-                <tspan x="0" y="19">User Features</tspan>
+        <g id="Group-4" transform="translate(47.000000, 371.000000)" fill="#2C2D32">
+            <text id="User-Features" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold">
+                <tspan x="0" y="24">User Features</tspan>
             </text>
-            <g id="Group" transform="translate(0.000000, 44.000000)">
-                <text id="Getting-tired-of-ins" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Getting tired of instant food and the dining hall on campus</tspan>
+            <g id="Group" transform="translate(0.000000, 45.000000)">
+                <text id="Getting-tired-of-ins" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">Getting tired of instant food and the dining hall on campus</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
-            <g id="Group-Copy-2" transform="translate(0.000000, 73.000000)">
-                <text id="Unfamiliar-with-fore" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Unfamiliar with foreign food jargon</tspan>
+            <g id="Group-Copy-2" transform="translate(0.000000, 74.000000)">
+                <text id="Unfamiliar-with-fore" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">Unfamiliar with foreign food jargon</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
-            <g id="Group-Copy" transform="translate(0.000000, 102.000000)">
-                <text id="Does-not-speak-Engli" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="11" y="15">Does not speak English very well</tspan>
+            <g id="Group-Copy" transform="translate(0.000000, 103.000000)">
+                <text id="Does-not-speak-Engli" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="11" y="19">Does not speak English very well</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
         </g>
     </g>

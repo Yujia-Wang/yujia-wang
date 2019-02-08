@@ -31,6 +31,7 @@
             <circle id="Oval-Copy-13" cx="1075" cy="119" r="115"></circle>
             <circle id="Oval-Copy-14" cx="1218" cy="119" r="65"></circle>
             <circle id="Oval-Copy-17" cx="1372" cy="119" r="98"></circle>
+            <circle id="Oval-Copy-18" cx="1300.5" cy="119.5" r="71.5"></circle>
         </g>
         <path d="M1377.186,221 L1470.5,221 C1482.92641,221 1493,231.073593 1493,243.5 L1493,244.5 C1493,256.926407 1482.92641,267 1470.5,267 L45.5,267 C33.0735931,267 23,256.926407 23,244.5 L23,243.5 C23,231.073593 33.0735931,221 45.5,221 L1121,221 L1077.5,182.924569 C1094.60411,181.930127 1103.15617,181.432906 1103.15617,181.432906 C1126.51414,132.67352 1176.32463,99 1234,99 C1306.25429,99 1366.16509,151.848795 1377.186,221 Z M1121.30042,221 L1346.69958,221 C1336.04437,168.508473 1289.63603,129 1234,129 C1178.36397,129 1131.95563,168.508473 1121.30042,221 Z" id="Combined-Shape" fill="#FC5759"></path>
         <text id="RESEARCH" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
@@ -51,8 +52,8 @@
         <text id="Survey" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
             <tspan x="62" y="58">Survey</tspan>
         </text>
-        <text id="Competitive-Analysis" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
-            <tspan x="185" y="82">Competitive Analysis</tspan>
+        <text id="Comparative-Analysis" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
+            <tspan x="185" y="82">Comparative Analysis</tspan>
         </text>
         <text id="Interview" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
             <tspan x="127" y="442">Interview</tspan>
@@ -84,8 +85,8 @@
         <text id="Expert-Feedback" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
             <tspan x="1245" y="442">Expert Feedback</tspan>
         </text>
-        <text id="Usability-Testing" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
-            <tspan x="1400" y="69">Usability Testing</tspan>
+        <text id="Heuristic-Evaluation" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
+            <tspan x="1328" y="97">Heuristic Evaluation</tspan>
         </text>
         <text id="Idea-Synthesizing" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
             <tspan x="677" y="97">Idea Synthesizing</tspan>
@@ -125,7 +126,7 @@
             <circle id="Oval-2" stroke="#FC5759" cx="4" cy="4" r="4"></circle>
             <circle id="Oval-3" fill="#FC5759" cx="4" cy="4" r="2"></circle>
         </g>
-        <g id="Group-Copy-16" transform="translate(1391.000000, 142.000000)">
+        <g id="Group-Copy-16" transform="translate(1320.000000, 170.000000)">
             <circle id="Oval-2" stroke="#FC5759" cx="4" cy="4" r="4"></circle>
             <circle id="Oval-3" fill="#FC5759" cx="4" cy="4" r="2"></circle>
         </g>
@@ -160,7 +161,15 @@
         <path d="M570.25,425.5 L570.25,324.5" id="Line-5-Copy-7" stroke="#FC5759" stroke-linecap="round"></path>
         <path d="M792.208333,397.5 L792.208333,297.5" id="Line-5-Copy-9" stroke="#FC5759" stroke-linecap="round"></path>
         <path d="M983.201389,382.5 L983.201389,312.5" id="Line-5-Copy-11" stroke="#FC5759" stroke-linecap="round"></path>
-        <path d="M1395.20001,141.5 L1395.20001,59.5" id="Line-5-Copy-17" stroke="#FC5759" stroke-linecap="round"></path>
+        <path d="M1324.20001,169.5 L1324.20001,87.5" id="Line-5-Copy-17" stroke="#FC5759" stroke-linecap="round"></path>
+        <text id="Usability-Testing" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#2C2D32">
+            <tspan x="1400" y="427">Usability Testing</tspan>
+        </text>
+        <g id="Group-Copy-16" transform="translate(1391.000000, 338.000000)">
+            <circle id="Oval-2" stroke="#FC5759" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-3" fill="#FC5759" cx="4" cy="4" r="2"></circle>
+        </g>
+        <path d="M1395.2,428.5 L1395.2,346.5" id="Line-5-Copy-17" stroke="#FC5759" stroke-linecap="round"></path>
         <path d="M181.25,185.5 L181.25,72.5" id="Line-5-Copy-2" stroke="#FC5759" stroke-linecap="round"></path>
         <path d="M295.208333,204.5 L295.208333,108.5" id="Line-5-Copy-4" stroke="#FC5759" stroke-linecap="round"></path>
         <path d="M487.25,204.5 L487.25,74.5" id="Line-5-Copy-6" stroke="#FC5759" stroke-linecap="round"></path>

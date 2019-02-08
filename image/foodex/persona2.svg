@@ -76,72 +76,72 @@
         <text id="Meimei-Han" font-family="OpenSans-Bold, Open Sans" font-size="36" font-weight="bold" fill="#2C2D32">
             <tspan x="219" y="90">Meimei Han</tspan>
         </text>
-        <text id="Reckoning-Workaholic" font-family="OpenSans-Bold, Open Sans" font-size="24" font-weight="bold" fill="#2C2D32">
-            <tspan x="219" y="176">Reckoning Workaholic</tspan>
+        <text id="Reckoning-Workaholic" font-family="OpenSans-Bold, Open Sans" font-size="26" font-weight="bold" fill="#2C2D32">
+            <tspan x="219" y="177">Reckoning Workaholic</tspan>
         </text>
-        <g id="Group-5" transform="translate(219.000000, 242.000000)" fill="#2C2D32">
-            <text id="INFO" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold">
-                <tspan x="0" y="19">INFO</tspan>
+        <g id="Group-5" transform="translate(219.000000, 233.000000)" fill="#2C2D32">
+            <text id="INFO" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold">
+                <tspan x="0" y="24">INFO</tspan>
             </text>
-            <text id="Age:-24" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                <tspan x="0" y="59">Age: 24</tspan>
+            <text id="Age:-24" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                <tspan x="0" y="64">Age: 24</tspan>
             </text>
-            <text id="City:-Atlanta" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                <tspan x="148" y="59">City: Atlanta</tspan>
+            <text id="City:-Atlanta" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                <tspan x="148" y="64">City: Atlanta</tspan>
             </text>
-            <text id="Major:-Mechanical-En" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                <tspan x="0" y="88">Major: Mechanical Engineering</tspan>
+            <text id="Major:-Mechanical-En" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                <tspan x="0" y="93">Major: Mechanical Engineering</tspan>
             </text>
         </g>
-        <g id="Group-2" transform="translate(47.000000, 530.000000)" fill="#2C2D32">
-            <text id="User-Needs" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold">
-                <tspan x="0" y="19">User Needs</tspan>
+        <g id="Group-2" transform="translate(47.000000, 523.000000)" fill="#2C2D32">
+            <text id="User-Needs" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold">
+                <tspan x="0" y="24">User Needs</tspan>
             </text>
-            <g id="Group-Copy-3" transform="translate(0.000000, 44.000000)">
-                <text id="Wants-a-quick-and-di" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Wants a quick and dirty food solution</tspan>
+            <g id="Group-Copy-3" transform="translate(0.000000, 45.000000)">
+                <text id="Wants-a-quick-and-di" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">Wants a quick and dirty food solution</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
-            <g id="Group-Copy-4" transform="translate(0.000000, 73.000000)">
-                <text id="Save-money-on-dining" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Save money on dining</tspan>
+            <g id="Group-Copy-4" transform="translate(0.000000, 74.000000)">
+                <text id="Save-money-on-dining" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">Save money on dining</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
         </g>
-        <g id="Group-2-Copy" transform="translate(47.000000, 681.000000)" fill="#2C2D32">
-            <text id="User-Frustrations" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold">
-                <tspan x="0" y="19">User Frustrations</tspan>
+        <g id="Group-2-Copy" transform="translate(47.000000, 675.000000)" fill="#2C2D32">
+            <text id="User-Frustrations" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold">
+                <tspan x="0" y="24">User Frustrations</tspan>
             </text>
-            <g id="Group-Copy-3" transform="translate(0.000000, 44.000000)">
-                <text id="Has-no-time-for-cook" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Has no time for cooking/preparing food</tspan>
+            <g id="Group-Copy-3" transform="translate(0.000000, 45.000000)">
+                <text id="Has-no-time-for-cook" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">Has no time for cooking/preparing food</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
-            <g id="Group-Copy-4" transform="translate(0.000000, 73.000000)">
-                <text id="Delivery-costs-are-h" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Delivery costs are high</tspan>
+            <g id="Group-Copy-4" transform="translate(0.000000, 74.000000)">
+                <text id="Delivery-costs-are-h" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">Delivery costs are high</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
         </g>
-        <g id="Group-4" transform="translate(47.000000, 379.000000)" fill="#2C2D32">
-            <text id="User-Features" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold">
-                <tspan x="0" y="19">User Features</tspan>
+        <g id="Group-4" transform="translate(47.000000, 371.000000)" fill="#2C2D32">
+            <text id="User-Features" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold">
+                <tspan x="0" y="24">User Features</tspan>
             </text>
-            <g id="Group" transform="translate(0.000000, 44.000000)">
-                <text id="Working-day-and-nigh" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Working day and night for his dues and finals</tspan>
+            <g id="Group" transform="translate(0.000000, 45.000000)">
+                <text id="Working-day-and-nigh" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">Working day and night for his dues and finals</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
-            <g id="Group-Copy-2" transform="translate(0.000000, 73.000000)">
-                <text id="Relies-on-a-student" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
-                    <tspan x="12" y="15">Relies on a student loan for education</tspan>
+            <g id="Group-Copy-2" transform="translate(0.000000, 74.000000)">
+                <text id="Relies-on-a-student" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal">
+                    <tspan x="12" y="19">Relies on a student loan for education</tspan>
                 </text>
-                <circle id="Oval" cx="3.5" cy="9.5" r="3.5"></circle>
+                <circle id="Oval" cx="3.5" cy="13.5" r="3.5"></circle>
             </g>
         </g>
     </g>
