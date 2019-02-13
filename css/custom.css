@@ -16,7 +16,6 @@ a {
 
 a:hover {
     text-decoration: none;
-/*    color: #000;*/
 }
 
 h1, h2, h3, h4 {
@@ -427,6 +426,21 @@ p {
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
     animation-direction: alternate;
+    -webkit-animation-name: breathing;
+    -webkit-animation-duration: 1.5s;
+    -webkit-animation-delay: 0s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: ease-in-out;
+    -webkit-animation-direction: alternate;
+}
+
+@-webkit-keyframes breathing {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
 
 @keyframes breathing {
