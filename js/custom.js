@@ -4,6 +4,24 @@ $(document).ready(function() {
     
     initComparisons();
     
+    $(".responsive-icon").click(function() {
+        $(this).addClass("responsive-icon-change");
+        $(".responsive-icon-close").addClass("responsive-icon-close-change");
+        
+        $(".sub-contact-mail").fadeIn(100);
+        $(".sub-contact-fb").fadeIn(300);
+        $(".sub-contact-linkedin").fadeIn(500);
+    });
+    
+    $(".responsive-icon-close").click(function() {
+        $(this).removeClass("responsive-icon-close-change");
+        $(".responsive-icon").removeClass("responsive-icon-change");
+        
+        $(".sub-contact-mail").fadeOut(500);
+        $(".sub-contact-fb").fadeOut(300);
+        $(".sub-contact-linkedin").fadeOut(100); 
+    });
+    
     /********************/
 	/*** project link ***/
     /********************/

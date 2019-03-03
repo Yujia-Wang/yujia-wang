@@ -1,3 +1,15 @@
+@media screen and (max-height: 660px) {
+    .contact div {
+        display: none;
+    }
+    
+    .contact .responsive-menu {
+        display: block;
+        position: relative;
+        width: 100%;
+    }
+}
+
 html {
 /*    scroll-behavior: smooth;*/
 }
@@ -98,18 +110,18 @@ p {
     bottom: 3em;
 }
 
-.contact a {
+.contact .original a {
     color: #fff;
     font-size: 1.2em;
     margin-top: 2em;
 }
 
-.contact a:hover {
+.contact .original a:hover {
     text-decoration: none;
     color: #fff;
 }
 
-.contact a:after {
+.contact .original a:after {
     content: "";
     width: 0;
     height: 2px;
@@ -123,7 +135,95 @@ p {
     transition: width .2s ease-in-out;
 }
 
-.contact a:hover:after {
+.contact .original a:hover:after {
+    opacity: 1;
+    width: 30px;
+}
+
+.responsive-menu {
+    display: none;
+    position: relative;
+    width: 100%;
+}
+
+.responsive-menu a {
+    font-size: 1.2em;
+    color: #fff;
+}
+
+.icon-position {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: -1;
+}
+
+.responsive-icon {
+    transition: opacity .5s, transform .5s;
+}
+
+.responsive-icon-change {
+    transform: rotate(90deg);
+    opacity: 0;
+    z-index: -1;
+}
+
+.responsive-icon-close {
+    transition: opacity .5s, transform .5s;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+}
+
+.responsive-icon-close-change {
+    transform: translate(-50%, -50%) rotate(90deg);
+    opacity: 1;
+    z-index: 1;
+}
+
+.sub-contact-mail {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+}
+
+.sub-contact-fb {
+    display: none;
+    position: absolute;
+    top: -100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.sub-contact-linkedin {
+    display: none;
+    position: absolute;
+    top: 50%;
+    right: 15%;
+    transform: translate(50%, -50%);
+}
+
+.update:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.update:after {
+    content: "";
+    width: 0;
+    height: 2px;
+    border-radius: 10px;
+    background-color: #fff;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 200%);
+    opacity: 0;
+    transition: width .2s ease-in-out;
+}
+
+.update:hover:after {
     opacity: 1;
     width: 30px;
 }
